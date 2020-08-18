@@ -1,0 +1,7197 @@
+[
+ {
+   "Zip": 29488,
+   "value": 2295,
+   "JobsRetained": 1
+ },
+ {
+   "Zip": 30016,
+   "value": 63797,
+   "JobsRetained": 6
+ },
+ {
+   "Zip": 30084,
+   "value": 9577,
+   "JobsRetained": 1
+ },
+ {
+   "Zip": 40181,
+   "value": 3485,
+   "JobsRetained": 1
+ },
+ {
+   "Zip": 44236,
+   "value": 10000,
+   "JobsRetained": 1
+ },
+ {
+   "Zip": 46032,
+   "value": 4105,
+   "JobsRetained": 3
+ },
+ {
+   "Zip": 46173,
+   "value": 5833,
+   "JobsRetained": 2
+ },
+ {
+   "Zip": 47408,
+   "value": 8021,
+   "JobsRetained": 2
+ },
+ {
+   "Zip": 52227,
+   "value": 35617,
+   "JobsRetained": 0
+ },
+ {
+   "Zip": 59034,
+   "value": 51525.35,
+   "JobsRetained": 8
+ },
+ {
+   "Zip": 60002,
+   "value": 10239476.47,
+   "JobsRetained": 1495
+ },
+ {
+   "Zip": 60004,
+   "value": 24454985.45,
+   "JobsRetained": 3003
+ },
+ {
+   "Zip": 60005,
+   "value": 25739501.5,
+   "JobsRetained": 3309
+ },
+ {
+   "Zip": 60006,
+   "value": 27477,
+   "JobsRetained": 2
+ },
+ {
+   "Zip": 60007,
+   "value": 47222016.33,
+   "JobsRetained": 6055
+ },
+ {
+   "Zip": 60008,
+   "value": 17836511.84,
+   "JobsRetained": 2079
+ },
+ {
+   "Zip": 60010,
+   "value": 43715770.83,
+   "JobsRetained": 5057
+ },
+ {
+   "Zip": 60011,
+   "value": 400210,
+   "JobsRetained": 27
+ },
+ {
+   "Zip": 60012,
+   "value": 5842807.74,
+   "JobsRetained": 825
+ },
+ {
+   "Zip": 60013,
+   "value": 11016378.7,
+   "JobsRetained": 1521
+ },
+ {
+   "Zip": 60014,
+   "value": 29905141.76,
+   "JobsRetained": 4191
+ },
+ {
+   "Zip": 60015,
+   "value": 24652303.35,
+   "JobsRetained": 2738
+ },
+ {
+   "Zip": 60016,
+   "value": 19639449.5,
+   "JobsRetained": 3053
+ },
+ {
+   "Zip": 60017,
+   "value": 159553,
+   "JobsRetained": 19
+ },
+ {
+   "Zip": 60018,
+   "value": 23986550.25,
+   "JobsRetained": 3117
+ },
+ {
+   "Zip": 60020,
+   "value": 4477431.15,
+   "JobsRetained": 749
+ },
+ {
+   "Zip": 60021,
+   "value": 1962128.71,
+   "JobsRetained": 351
+ },
+ {
+   "Zip": 60022,
+   "value": 5077191.84,
+   "JobsRetained": 631
+ },
+ {
+   "Zip": 60025,
+   "value": 26516536.69,
+   "JobsRetained": 4112
+ },
+ {
+   "Zip": 60026,
+   "value": 10865693.86,
+   "JobsRetained": 1452
+ },
+ {
+   "Zip": 60029,
+   "value": 99295,
+   "JobsRetained": 7
+ },
+ {
+   "Zip": 60030,
+   "value": 15149477.05,
+   "JobsRetained": 2047
+ },
+ {
+   "Zip": 60031,
+   "value": 18580173.58,
+   "JobsRetained": 2482
+ },
+ {
+   "Zip": 60033,
+   "value": 4393449.62,
+   "JobsRetained": 626
+ },
+ {
+   "Zip": 60034,
+   "value": 1197455.17,
+   "JobsRetained": 242
+ },
+ {
+   "Zip": 60035,
+   "value": 27751783.31,
+   "JobsRetained": 2639
+ },
+ {
+   "Zip": 60039,
+   "value": 237126.41,
+   "JobsRetained": 21
+ },
+ {
+   "Zip": 60040,
+   "value": 3348421.2,
+   "JobsRetained": 563
+ },
+ {
+   "Zip": 60041,
+   "value": 2777674.6,
+   "JobsRetained": 410
+ },
+ {
+   "Zip": 60042,
+   "value": 2349036,
+   "JobsRetained": 456
+ },
+ {
+   "Zip": 60043,
+   "value": 1653153.32,
+   "JobsRetained": 170
+ },
+ {
+   "Zip": 60044,
+   "value": 10487522.67,
+   "JobsRetained": 1208
+ },
+ {
+   "Zip": 60045,
+   "value": 17718186.53,
+   "JobsRetained": 1950
+ },
+ {
+   "Zip": 60046,
+   "value": 8692739.67,
+   "JobsRetained": 1056
+ },
+ {
+   "Zip": 60047,
+   "value": 33068749.94,
+   "JobsRetained": 4372
+ },
+ {
+   "Zip": 60048,
+   "value": 29828665.98,
+   "JobsRetained": 3690
+ },
+ {
+   "Zip": 60050,
+   "value": 16007335.95,
+   "JobsRetained": 2543
+ },
+ {
+   "Zip": 60051,
+   "value": 8375094.32,
+   "JobsRetained": 1223
+ },
+ {
+   "Zip": 60053,
+   "value": 11442058.33,
+   "JobsRetained": 1472
+ },
+ {
+   "Zip": 60056,
+   "value": 21643603.32,
+   "JobsRetained": 3212
+ },
+ {
+   "Zip": 60060,
+   "value": 17718492.65,
+   "JobsRetained": 2438
+ },
+ {
+   "Zip": 60061,
+   "value": 12085546.84,
+   "JobsRetained": 2083
+ },
+ {
+   "Zip": 60062,
+   "value": 57496407.85,
+   "JobsRetained": 6077
+ },
+ {
+   "Zip": 60064,
+   "value": 1991722.77,
+   "JobsRetained": 316
+ },
+ {
+   "Zip": 60065,
+   "value": 236656,
+   "JobsRetained": 33
+ },
+ {
+   "Zip": 60067,
+   "value": 26460431.69,
+   "JobsRetained": 3288
+ },
+ {
+   "Zip": 60068,
+   "value": 28438997.09,
+   "JobsRetained": 3400
+ },
+ {
+   "Zip": 60069,
+   "value": 9983917.37,
+   "JobsRetained": 1292
+ },
+ {
+   "Zip": 60070,
+   "value": 5151704.22,
+   "JobsRetained": 663
+ },
+ {
+   "Zip": 60071,
+   "value": 3105663.16,
+   "JobsRetained": 478
+ },
+ {
+   "Zip": 60072,
+   "value": 1723419.46,
+   "JobsRetained": 211
+ },
+ {
+   "Zip": 60073,
+   "value": 10796652.6,
+   "JobsRetained": 1738
+ },
+ {
+   "Zip": 60074,
+   "value": 10177097.77,
+   "JobsRetained": 1459
+ },
+ {
+   "Zip": 60075,
+   "value": 44306,
+   "JobsRetained": 22
+ },
+ {
+   "Zip": 60076,
+   "value": 23530560.01,
+   "JobsRetained": 2964
+ },
+ {
+   "Zip": 60077,
+   "value": 22410602.18,
+   "JobsRetained": 3097
+ },
+ {
+   "Zip": 60078,
+   "value": 266741,
+   "JobsRetained": 23
+ },
+ {
+   "Zip": 60079,
+   "value": 49590,
+   "JobsRetained": 5
+ },
+ {
+   "Zip": 60081,
+   "value": 5055336.21,
+   "JobsRetained": 695
+ },
+ {
+   "Zip": 60082,
+   "value": 104647,
+   "JobsRetained": 0
+ },
+ {
+   "Zip": 60083,
+   "value": 2152869.56,
+   "JobsRetained": 250
+ },
+ {
+   "Zip": 60084,
+   "value": 11211269.81,
+   "JobsRetained": 1492
+ },
+ {
+   "Zip": 60085,
+   "value": 17259795.63,
+   "JobsRetained": 2420
+ },
+ {
+   "Zip": 60087,
+   "value": 5021601.54,
+   "JobsRetained": 660
+ },
+ {
+   "Zip": 60089,
+   "value": 22712704.8,
+   "JobsRetained": 3193
+ },
+ {
+   "Zip": 60090,
+   "value": 19367854.91,
+   "JobsRetained": 2403
+ },
+ {
+   "Zip": 60091,
+   "value": 20674722.31,
+   "JobsRetained": 2557
+ },
+ {
+   "Zip": 60093,
+   "value": 22462112.55,
+   "JobsRetained": 2337
+ },
+ {
+   "Zip": 60096,
+   "value": 773916.5,
+   "JobsRetained": 134
+ },
+ {
+   "Zip": 60097,
+   "value": 1187488.22,
+   "JobsRetained": 161
+ },
+ {
+   "Zip": 60098,
+   "value": 15849445.46,
+   "JobsRetained": 2308
+ },
+ {
+   "Zip": 60099,
+   "value": 5632863.05,
+   "JobsRetained": 945
+ },
+ {
+   "Zip": 60101,
+   "value": 31286218.22,
+   "JobsRetained": 4654
+ },
+ {
+   "Zip": 60102,
+   "value": 15351456.14,
+   "JobsRetained": 2168
+ },
+ {
+   "Zip": 60103,
+   "value": 14125089.79,
+   "JobsRetained": 2035
+ },
+ {
+   "Zip": 60104,
+   "value": 4162654.04,
+   "JobsRetained": 568
+ },
+ {
+   "Zip": 60106,
+   "value": 20611512.54,
+   "JobsRetained": 2379
+ },
+ {
+   "Zip": 60107,
+   "value": 9220292.75,
+   "JobsRetained": 1346
+ },
+ {
+   "Zip": 60108,
+   "value": 15172057.07,
+   "JobsRetained": 2332
+ },
+ {
+   "Zip": 60109,
+   "value": 370230,
+   "JobsRetained": 103
+ },
+ {
+   "Zip": 60110,
+   "value": 5502169.37,
+   "JobsRetained": 832
+ },
+ {
+   "Zip": 60111,
+   "value": 265208.45,
+   "JobsRetained": 24
+ },
+ {
+   "Zip": 60112,
+   "value": 1134812.03,
+   "JobsRetained": 125
+ },
+ {
+   "Zip": 60113,
+   "value": 317473.5,
+   "JobsRetained": 39
+ },
+ {
+   "Zip": 60115,
+   "value": 11489173.94,
+   "JobsRetained": 1660
+ },
+ {
+   "Zip": 60118,
+   "value": 13395776.19,
+   "JobsRetained": 1585
+ },
+ {
+   "Zip": 60119,
+   "value": 6085424.38,
+   "JobsRetained": 728
+ },
+ {
+   "Zip": 60120,
+   "value": 12573323.31,
+   "JobsRetained": 1978
+ },
+ {
+   "Zip": 60121,
+   "value": 128639.17,
+   "JobsRetained": 13
+ },
+ {
+   "Zip": 60123,
+   "value": 22736453.09,
+   "JobsRetained": 2626
+ },
+ {
+   "Zip": 60124,
+   "value": 9803613.34,
+   "JobsRetained": 1243
+ },
+ {
+   "Zip": 60126,
+   "value": 34385112.19,
+   "JobsRetained": 4964
+ },
+ {
+   "Zip": 60128,
+   "value": 85075,
+   "JobsRetained": 7
+ },
+ {
+   "Zip": 60129,
+   "value": 107320.82,
+   "JobsRetained": 11
+ },
+ {
+   "Zip": 60130,
+   "value": 8407540.46,
+   "JobsRetained": 1311
+ },
+ {
+   "Zip": 60131,
+   "value": 14245829.8,
+   "JobsRetained": 1682
+ },
+ {
+   "Zip": 60133,
+   "value": 5847044.32,
+   "JobsRetained": 878
+ },
+ {
+   "Zip": 60134,
+   "value": 22021469.28,
+   "JobsRetained": 3582
+ },
+ {
+   "Zip": 60135,
+   "value": 2014901.38,
+   "JobsRetained": 377
+ },
+ {
+   "Zip": 60136,
+   "value": 3207633.5,
+   "JobsRetained": 356
+ },
+ {
+   "Zip": 60137,
+   "value": 18565102.17,
+   "JobsRetained": 2312
+ },
+ {
+   "Zip": 60138,
+   "value": 280400,
+   "JobsRetained": 27
+ },
+ {
+   "Zip": 60139,
+   "value": 7984635.45,
+   "JobsRetained": 1270
+ },
+ {
+   "Zip": 60140,
+   "value": 5555860.09,
+   "JobsRetained": 712
+ },
+ {
+   "Zip": 60141,
+   "value": 168893,
+   "JobsRetained": 1
+ },
+ {
+   "Zip": 60142,
+   "value": 9563539.33,
+   "JobsRetained": 1271
+ },
+ {
+   "Zip": 60143,
+   "value": 10743952.05,
+   "JobsRetained": 1673
+ },
+ {
+   "Zip": 60144,
+   "value": 437125.8,
+   "JobsRetained": 38
+ },
+ {
+   "Zip": 60145,
+   "value": 1257707.95,
+   "JobsRetained": 123
+ },
+ {
+   "Zip": 60146,
+   "value": 1069256.4,
+   "JobsRetained": 114
+ },
+ {
+   "Zip": 60147,
+   "value": 167500.5,
+   "JobsRetained": 20
+ },
+ {
+   "Zip": 60148,
+   "value": 31315912.89,
+   "JobsRetained": 4149
+ },
+ {
+   "Zip": 60150,
+   "value": 1029530.52,
+   "JobsRetained": 106
+ },
+ {
+   "Zip": 60151,
+   "value": 2461756.16,
+   "JobsRetained": 326
+ },
+ {
+   "Zip": 60152,
+   "value": 5102076.85,
+   "JobsRetained": 726
+ },
+ {
+   "Zip": 60153,
+   "value": 3680423.34,
+   "JobsRetained": 563
+ },
+ {
+   "Zip": 60154,
+   "value": 8119554.28,
+   "JobsRetained": 1469
+ },
+ {
+   "Zip": 60155,
+   "value": 4521699.18,
+   "JobsRetained": 571
+ },
+ {
+   "Zip": 60156,
+   "value": 6853019.89,
+   "JobsRetained": 870
+ },
+ {
+   "Zip": 60157,
+   "value": 1147966.12,
+   "JobsRetained": 165
+ },
+ {
+   "Zip": 60160,
+   "value": 11062951.16,
+   "JobsRetained": 1539
+ },
+ {
+   "Zip": 60161,
+   "value": 29750,
+   "JobsRetained": 4
+ },
+ {
+   "Zip": 60162,
+   "value": 5013884.83,
+   "JobsRetained": 687
+ },
+ {
+   "Zip": 60163,
+   "value": 1406748.5,
+   "JobsRetained": 201
+ },
+ {
+   "Zip": 60164,
+   "value": 4751670.98,
+   "JobsRetained": 674
+ },
+ {
+   "Zip": 60165,
+   "value": 1874480.97,
+   "JobsRetained": 257
+ },
+ {
+   "Zip": 60168,
+   "value": 12830,
+   "JobsRetained": 2
+ },
+ {
+   "Zip": 60169,
+   "value": 13313969.53,
+   "JobsRetained": 1810
+ },
+ {
+   "Zip": 60171,
+   "value": 4379992.9,
+   "JobsRetained": 667
+ },
+ {
+   "Zip": 60172,
+   "value": 14537550.33,
+   "JobsRetained": 2118
+ },
+ {
+   "Zip": 60173,
+   "value": 32247968.1,
+   "JobsRetained": 4042
+ },
+ {
+   "Zip": 60174,
+   "value": 31609200.09,
+   "JobsRetained": 4159
+ },
+ {
+   "Zip": 60175,
+   "value": 12885571.4,
+   "JobsRetained": 1637
+ },
+ {
+   "Zip": 60176,
+   "value": 7034197.75,
+   "JobsRetained": 1070
+ },
+ {
+   "Zip": 60177,
+   "value": 9959346.46,
+   "JobsRetained": 1491
+ },
+ {
+   "Zip": 60178,
+   "value": 11979858.29,
+   "JobsRetained": 1596
+ },
+ {
+   "Zip": 60179,
+   "value": 72845,
+   "JobsRetained": 11
+ },
+ {
+   "Zip": 60180,
+   "value": 1322549.22,
+   "JobsRetained": 181
+ },
+ {
+   "Zip": 60181,
+   "value": 23757575.01,
+   "JobsRetained": 3024
+ },
+ {
+   "Zip": 60183,
+   "value": 173055,
+   "JobsRetained": 23
+ },
+ {
+   "Zip": 60184,
+   "value": 1699674.77,
+   "JobsRetained": 233
+ },
+ {
+   "Zip": 60185,
+   "value": 16550028.26,
+   "JobsRetained": 2141
+ },
+ {
+   "Zip": 60186,
+   "value": 132082,
+   "JobsRetained": 17
+ },
+ {
+   "Zip": 60187,
+   "value": 21804080.56,
+   "JobsRetained": 2858
+ },
+ {
+   "Zip": 60188,
+   "value": 18654505.82,
+   "JobsRetained": 2477
+ },
+ {
+   "Zip": 60189,
+   "value": 8805364.78,
+   "JobsRetained": 964
+ },
+ {
+   "Zip": 60190,
+   "value": 3984917.69,
+   "JobsRetained": 528
+ },
+ {
+   "Zip": 60191,
+   "value": 10922189,
+   "JobsRetained": 1299
+ },
+ {
+   "Zip": 60192,
+   "value": 5823336.59,
+   "JobsRetained": 842
+ },
+ {
+   "Zip": 60193,
+   "value": 16854844.28,
+   "JobsRetained": 2241
+ },
+ {
+   "Zip": 60194,
+   "value": 5381737.06,
+   "JobsRetained": 845
+ },
+ {
+   "Zip": 60195,
+   "value": 3791613.15,
+   "JobsRetained": 511
+ },
+ {
+   "Zip": 60196,
+   "value": 10000,
+   "JobsRetained": 0
+ },
+ {
+   "Zip": 60199,
+   "value": 7500,
+   "JobsRetained": 2
+ },
+ {
+   "Zip": 60201,
+   "value": 27473724.01,
+   "JobsRetained": 3619
+ },
+ {
+   "Zip": 60202,
+   "value": 14103681.8,
+   "JobsRetained": 1810
+ },
+ {
+   "Zip": 60203,
+   "value": 1415805.36,
+   "JobsRetained": 178
+ },
+ {
+   "Zip": 60204,
+   "value": 48074.07,
+   "JobsRetained": 3
+ },
+ {
+   "Zip": 60208,
+   "value": 61899.9,
+   "JobsRetained": 63
+ },
+ {
+   "Zip": 60301,
+   "value": 7738694.53,
+   "JobsRetained": 1041
+ },
+ {
+   "Zip": 60302,
+   "value": 16757157.99,
+   "JobsRetained": 2359
+ },
+ {
+   "Zip": 60303,
+   "value": 51112,
+   "JobsRetained": 3
+ },
+ {
+   "Zip": 60304,
+   "value": 6717991.63,
+   "JobsRetained": 872
+ },
+ {
+   "Zip": 60305,
+   "value": 5804447.58,
+   "JobsRetained": 725
+ },
+ {
+   "Zip": 60401,
+   "value": 2723229.89,
+   "JobsRetained": 440
+ },
+ {
+   "Zip": 60402,
+   "value": 12594683.41,
+   "JobsRetained": 2675
+ },
+ {
+   "Zip": 60403,
+   "value": 5136176.13,
+   "JobsRetained": 711
+ },
+ {
+   "Zip": 60404,
+   "value": 7964816.35,
+   "JobsRetained": 1158
+ },
+ {
+   "Zip": 60405,
+   "value": 16937,
+   "JobsRetained": 2
+ },
+ {
+   "Zip": 60406,
+   "value": 6268049.71,
+   "JobsRetained": 1041
+ },
+ {
+   "Zip": 60407,
+   "value": 51158.45,
+   "JobsRetained": 7
+ },
+ {
+   "Zip": 60408,
+   "value": 715744.57,
+   "JobsRetained": 83
+ },
+ {
+   "Zip": 60409,
+   "value": 8728097.63,
+   "JobsRetained": 1278
+ },
+ {
+   "Zip": 60410,
+   "value": 3389599.01,
+   "JobsRetained": 392
+ },
+ {
+   "Zip": 60411,
+   "value": 15724686.92,
+   "JobsRetained": 2387
+ },
+ {
+   "Zip": 60412,
+   "value": 35462.5,
+   "JobsRetained": 11
+ },
+ {
+   "Zip": 60415,
+   "value": 7472800.18,
+   "JobsRetained": 786
+ },
+ {
+   "Zip": 60416,
+   "value": 2369890.4,
+   "JobsRetained": 257
+ },
+ {
+   "Zip": 60417,
+   "value": 5323695.49,
+   "JobsRetained": 802
+ },
+ {
+   "Zip": 60418,
+   "value": 6300909.38,
+   "JobsRetained": 1052
+ },
+ {
+   "Zip": 60419,
+   "value": 5321790.35,
+   "JobsRetained": 751
+ },
+ {
+   "Zip": 60420,
+   "value": 1856276.86,
+   "JobsRetained": 345
+ },
+ {
+   "Zip": 60421,
+   "value": 760656,
+   "JobsRetained": 69
+ },
+ {
+   "Zip": 60422,
+   "value": 4457735.86,
+   "JobsRetained": 596
+ },
+ {
+   "Zip": 60423,
+   "value": 22802105.41,
+   "JobsRetained": 3119
+ },
+ {
+   "Zip": 60424,
+   "value": 337013.71,
+   "JobsRetained": 32
+ },
+ {
+   "Zip": 60425,
+   "value": 1792345.84,
+   "JobsRetained": 256
+ },
+ {
+   "Zip": 60426,
+   "value": 4408657.87,
+   "JobsRetained": 667
+ },
+ {
+   "Zip": 60428,
+   "value": 2741269.72,
+   "JobsRetained": 403
+ },
+ {
+   "Zip": 60429,
+   "value": 4767870.94,
+   "JobsRetained": 766
+ },
+ {
+   "Zip": 60430,
+   "value": 11460616.91,
+   "JobsRetained": 2267
+ },
+ {
+   "Zip": 60431,
+   "value": 5159267.56,
+   "JobsRetained": 684
+ },
+ {
+   "Zip": 60432,
+   "value": 7494672.08,
+   "JobsRetained": 1055
+ },
+ {
+   "Zip": 60433,
+   "value": 3834648.83,
+   "JobsRetained": 455
+ },
+ {
+   "Zip": 60434,
+   "value": 395374.55,
+   "JobsRetained": 68
+ },
+ {
+   "Zip": 60435,
+   "value": 16848701.38,
+   "JobsRetained": 2615
+ },
+ {
+   "Zip": 60436,
+   "value": 6874020.51,
+   "JobsRetained": 823
+ },
+ {
+   "Zip": 60437,
+   "value": 65036.5,
+   "JobsRetained": 8
+ },
+ {
+   "Zip": 60438,
+   "value": 11225548.05,
+   "JobsRetained": 1790
+ },
+ {
+   "Zip": 60439,
+   "value": 15313774.19,
+   "JobsRetained": 2017
+ },
+ {
+   "Zip": 60440,
+   "value": 15107904.05,
+   "JobsRetained": 2280
+ },
+ {
+   "Zip": 60441,
+   "value": 11785332.76,
+   "JobsRetained": 1916
+ },
+ {
+   "Zip": 60442,
+   "value": 4038907.09,
+   "JobsRetained": 501
+ },
+ {
+   "Zip": 60443,
+   "value": 7294908.66,
+   "JobsRetained": 1360
+ },
+ {
+   "Zip": 60444,
+   "value": 850890.32,
+   "JobsRetained": 109
+ },
+ {
+   "Zip": 60445,
+   "value": 4504494.77,
+   "JobsRetained": 764
+ },
+ {
+   "Zip": 60446,
+   "value": 10149164.16,
+   "JobsRetained": 1544
+ },
+ {
+   "Zip": 60447,
+   "value": 5201859.12,
+   "JobsRetained": 756
+ },
+ {
+   "Zip": 60448,
+   "value": 25494264.23,
+   "JobsRetained": 3392
+ },
+ {
+   "Zip": 60449,
+   "value": 5639073.89,
+   "JobsRetained": 883
+ },
+ {
+   "Zip": 60450,
+   "value": 11589446.43,
+   "JobsRetained": 1305
+ },
+ {
+   "Zip": 60451,
+   "value": 16522925.43,
+   "JobsRetained": 2466
+ },
+ {
+   "Zip": 60452,
+   "value": 7005593.64,
+   "JobsRetained": 1461
+ },
+ {
+   "Zip": 60453,
+   "value": 22910330.07,
+   "JobsRetained": 3015
+ },
+ {
+   "Zip": 60454,
+   "value": 88994.22,
+   "JobsRetained": 8
+ },
+ {
+   "Zip": 60455,
+   "value": 12824893.9,
+   "JobsRetained": 1810
+ },
+ {
+   "Zip": 60456,
+   "value": 312907.67,
+   "JobsRetained": 45
+ },
+ {
+   "Zip": 60457,
+   "value": 6433703.95,
+   "JobsRetained": 915
+ },
+ {
+   "Zip": 60458,
+   "value": 2970524.06,
+   "JobsRetained": 314
+ },
+ {
+   "Zip": 60459,
+   "value": 6360930.09,
+   "JobsRetained": 1243
+ },
+ {
+   "Zip": 60460,
+   "value": 635118.38,
+   "JobsRetained": 78
+ },
+ {
+   "Zip": 60461,
+   "value": 2375324.71,
+   "JobsRetained": 341
+ },
+ {
+   "Zip": 60462,
+   "value": 27907455.27,
+   "JobsRetained": 3871
+ },
+ {
+   "Zip": 60463,
+   "value": 12996596.69,
+   "JobsRetained": 1769
+ },
+ {
+   "Zip": 60464,
+   "value": 4774167.96,
+   "JobsRetained": 1254
+ },
+ {
+   "Zip": 60465,
+   "value": 8080587.64,
+   "JobsRetained": 1323
+ },
+ {
+   "Zip": 60466,
+   "value": 3100116,
+   "JobsRetained": 410
+ },
+ {
+   "Zip": 60467,
+   "value": 15379219.27,
+   "JobsRetained": 2057
+ },
+ {
+   "Zip": 60468,
+   "value": 2715786.48,
+   "JobsRetained": 472
+ },
+ {
+   "Zip": 60469,
+   "value": 2207664.39,
+   "JobsRetained": 296
+ },
+ {
+   "Zip": 60470,
+   "value": 131565,
+   "JobsRetained": 21
+ },
+ {
+   "Zip": 60471,
+   "value": 2706819.52,
+   "JobsRetained": 440
+ },
+ {
+   "Zip": 60472,
+   "value": 447448.37,
+   "JobsRetained": 57
+ },
+ {
+   "Zip": 60473,
+   "value": 11853755.26,
+   "JobsRetained": 1844
+ },
+ {
+   "Zip": 60474,
+   "value": 117880.07,
+   "JobsRetained": 10
+ },
+ {
+   "Zip": 60475,
+   "value": 3123137.36,
+   "JobsRetained": 397
+ },
+ {
+   "Zip": 60476,
+   "value": 794044.35,
+   "JobsRetained": 122
+ },
+ {
+   "Zip": 60477,
+   "value": 15764485.97,
+   "JobsRetained": 2417
+ },
+ {
+   "Zip": 60478,
+   "value": 4076260.27,
+   "JobsRetained": 693
+ },
+ {
+   "Zip": 60479,
+   "value": 454346.68,
+   "JobsRetained": 36
+ },
+ {
+   "Zip": 60480,
+   "value": 2900282.99,
+   "JobsRetained": 422
+ },
+ {
+   "Zip": 60481,
+   "value": 3536222.96,
+   "JobsRetained": 456
+ },
+ {
+   "Zip": 60482,
+   "value": 4548002.18,
+   "JobsRetained": 577
+ },
+ {
+   "Zip": 60484,
+   "value": 1541802.71,
+   "JobsRetained": 155
+ },
+ {
+   "Zip": 60487,
+   "value": 8433780.26,
+   "JobsRetained": 1159
+ },
+ {
+   "Zip": 60488,
+   "value": 24662,
+   "JobsRetained": 1
+ },
+ {
+   "Zip": 60490,
+   "value": 6593183.11,
+   "JobsRetained": 1007
+ },
+ {
+   "Zip": 60491,
+   "value": 9981366.68,
+   "JobsRetained": 1423
+ },
+ {
+   "Zip": 60499,
+   "value": 157475,
+   "JobsRetained": 11
+ },
+ {
+   "Zip": 60501,
+   "value": 3288054.05,
+   "JobsRetained": 536
+ },
+ {
+   "Zip": 60502,
+   "value": 9829863.84,
+   "JobsRetained": 1342
+ },
+ {
+   "Zip": 60503,
+   "value": 2451346.9,
+   "JobsRetained": 439
+ },
+ {
+   "Zip": 60504,
+   "value": 13219813.34,
+   "JobsRetained": 1827
+ },
+ {
+   "Zip": 60505,
+   "value": 8844914.1,
+   "JobsRetained": 1420
+ },
+ {
+   "Zip": 60506,
+   "value": 17496678.85,
+   "JobsRetained": 2783
+ },
+ {
+   "Zip": 60507,
+   "value": 201215,
+   "JobsRetained": 20
+ },
+ {
+   "Zip": 60510,
+   "value": 16936668.86,
+   "JobsRetained": 2273
+ },
+ {
+   "Zip": 60511,
+   "value": 954873.87,
+   "JobsRetained": 90
+ },
+ {
+   "Zip": 60512,
+   "value": 666257.3,
+   "JobsRetained": 21
+ },
+ {
+   "Zip": 60513,
+   "value": 7491832.87,
+   "JobsRetained": 1072
+ },
+ {
+   "Zip": 60514,
+   "value": 4125552.49,
+   "JobsRetained": 489
+ },
+ {
+   "Zip": 60515,
+   "value": 32209724.84,
+   "JobsRetained": 4554
+ },
+ {
+   "Zip": 60516,
+   "value": 7596540.14,
+   "JobsRetained": 1144
+ },
+ {
+   "Zip": 60517,
+   "value": 13377253.66,
+   "JobsRetained": 1870
+ },
+ {
+   "Zip": 60518,
+   "value": 1005726.41,
+   "JobsRetained": 123
+ },
+ {
+   "Zip": 60519,
+   "value": 20830,
+   "JobsRetained": 1
+ },
+ {
+   "Zip": 60520,
+   "value": 1059837.94,
+   "JobsRetained": 201
+ },
+ {
+   "Zip": 60521,
+   "value": 17850561.56,
+   "JobsRetained": 2154
+ },
+ {
+   "Zip": 60522,
+   "value": 177035.5,
+   "JobsRetained": 34
+ },
+ {
+   "Zip": 60523,
+   "value": 26821170.57,
+   "JobsRetained": 2775
+ },
+ {
+   "Zip": 60525,
+   "value": 24066125.42,
+   "JobsRetained": 3173
+ },
+ {
+   "Zip": 60526,
+   "value": 3052615.84,
+   "JobsRetained": 440
+ },
+ {
+   "Zip": 60527,
+   "value": 31576132.07,
+   "JobsRetained": 4712
+ },
+ {
+   "Zip": 60530,
+   "value": 189702.74,
+   "JobsRetained": 33
+ },
+ {
+   "Zip": 60531,
+   "value": 772018.62,
+   "JobsRetained": 184
+ },
+ {
+   "Zip": 60532,
+   "value": 17729957.46,
+   "JobsRetained": 2189
+ },
+ {
+   "Zip": 60534,
+   "value": 5937474.08,
+   "JobsRetained": 1239
+ },
+ {
+   "Zip": 60536,
+   "value": 127300,
+   "JobsRetained": 19
+ },
+ {
+   "Zip": 60537,
+   "value": 33700,
+   "JobsRetained": 6
+ },
+ {
+   "Zip": 60538,
+   "value": 7345536.12,
+   "JobsRetained": 1182
+ },
+ {
+   "Zip": 60540,
+   "value": 29907212.04,
+   "JobsRetained": 4491
+ },
+ {
+   "Zip": 60541,
+   "value": 1645806.57,
+   "JobsRetained": 136
+ },
+ {
+   "Zip": 60542,
+   "value": 5834491.11,
+   "JobsRetained": 852
+ },
+ {
+   "Zip": 60543,
+   "value": 16956387.41,
+   "JobsRetained": 2287
+ },
+ {
+   "Zip": 60544,
+   "value": 11725215.15,
+   "JobsRetained": 1904
+ },
+ {
+   "Zip": 60545,
+   "value": 3348425.23,
+   "JobsRetained": 434
+ },
+ {
+   "Zip": 60546,
+   "value": 7302278.51,
+   "JobsRetained": 980
+ },
+ {
+   "Zip": 60548,
+   "value": 4520290.36,
+   "JobsRetained": 530
+ },
+ {
+   "Zip": 60549,
+   "value": 97338.87,
+   "JobsRetained": 12
+ },
+ {
+   "Zip": 60550,
+   "value": 544228.91,
+   "JobsRetained": 86
+ },
+ {
+   "Zip": 60551,
+   "value": 765475.39,
+   "JobsRetained": 134
+ },
+ {
+   "Zip": 60552,
+   "value": 1790079.5,
+   "JobsRetained": 268
+ },
+ {
+   "Zip": 60553,
+   "value": 258226.95,
+   "JobsRetained": 31
+ },
+ {
+   "Zip": 60554,
+   "value": 5261860.38,
+   "JobsRetained": 568
+ },
+ {
+   "Zip": 60555,
+   "value": 9368096.76,
+   "JobsRetained": 1004
+ },
+ {
+   "Zip": 60556,
+   "value": 557060.15,
+   "JobsRetained": 68
+ },
+ {
+   "Zip": 60558,
+   "value": 7818659.67,
+   "JobsRetained": 1059
+ },
+ {
+   "Zip": 60559,
+   "value": 15190799.56,
+   "JobsRetained": 2128
+ },
+ {
+   "Zip": 60560,
+   "value": 12950537.1,
+   "JobsRetained": 1388
+ },
+ {
+   "Zip": 60561,
+   "value": 10089895.34,
+   "JobsRetained": 1305
+ },
+ {
+   "Zip": 60563,
+   "value": 37120072.41,
+   "JobsRetained": 4303
+ },
+ {
+   "Zip": 60564,
+   "value": 23932414.97,
+   "JobsRetained": 3690
+ },
+ {
+   "Zip": 60565,
+   "value": 11750137.61,
+   "JobsRetained": 1480
+ },
+ {
+   "Zip": 60566,
+   "value": 182795,
+   "JobsRetained": 41
+ },
+ {
+   "Zip": 60567,
+   "value": 234927.47,
+   "JobsRetained": 70
+ },
+ {
+   "Zip": 60585,
+   "value": 14462315.24,
+   "JobsRetained": 2395
+ },
+ {
+   "Zip": 60586,
+   "value": 8558062.66,
+   "JobsRetained": 1262
+ },
+ {
+   "Zip": 60598,
+   "value": 18350,
+   "JobsRetained": 10
+ },
+ {
+   "Zip": 60601,
+   "value": 30155276,
+   "JobsRetained": 3794
+ },
+ {
+   "Zip": 60602,
+   "value": 40771120.1,
+   "JobsRetained": 3591
+ },
+ {
+   "Zip": 60603,
+   "value": 23869513.37,
+   "JobsRetained": 1982
+ },
+ {
+   "Zip": 60604,
+   "value": 18601178.39,
+   "JobsRetained": 1550
+ },
+ {
+   "Zip": 60605,
+   "value": 21262516.75,
+   "JobsRetained": 4196
+ },
+ {
+   "Zip": 60606,
+   "value": 39386264.89,
+   "JobsRetained": 3319
+ },
+ {
+   "Zip": 60607,
+   "value": 38253786.24,
+   "JobsRetained": 4984
+ },
+ {
+   "Zip": 60608,
+   "value": 22293436.75,
+   "JobsRetained": 3587
+ },
+ {
+   "Zip": 60609,
+   "value": 15111856.97,
+   "JobsRetained": 2214
+ },
+ {
+   "Zip": 60610,
+   "value": 22994547.61,
+   "JobsRetained": 3379
+ },
+ {
+   "Zip": 60611,
+   "value": 38702093.08,
+   "JobsRetained": 4846
+ },
+ {
+   "Zip": 60612,
+   "value": 23117565.8,
+   "JobsRetained": 2780
+ },
+ {
+   "Zip": 60613,
+   "value": 25689720.08,
+   "JobsRetained": 3428
+ },
+ {
+   "Zip": 60614,
+   "value": 42497994.15,
+   "JobsRetained": 5519
+ },
+ {
+   "Zip": 60615,
+   "value": 12500063.13,
+   "JobsRetained": 1690
+ },
+ {
+   "Zip": 60616,
+   "value": 26973995.23,
+   "JobsRetained": 4336
+ },
+ {
+   "Zip": 60617,
+   "value": 13547743.11,
+   "JobsRetained": 1876
+ },
+ {
+   "Zip": 60618,
+   "value": 38719755.38,
+   "JobsRetained": 5324
+ },
+ {
+   "Zip": 60619,
+   "value": 13436090.79,
+   "JobsRetained": 1979
+ },
+ {
+   "Zip": 60620,
+   "value": 10505096.73,
+   "JobsRetained": 1627
+ },
+ {
+   "Zip": 60621,
+   "value": 4212075.79,
+   "JobsRetained": 646
+ },
+ {
+   "Zip": 60622,
+   "value": 37823366.42,
+   "JobsRetained": 5716
+ },
+ {
+   "Zip": 60623,
+   "value": 10286451.45,
+   "JobsRetained": 1682
+ },
+ {
+   "Zip": 60624,
+   "value": 6233509.96,
+   "JobsRetained": 836
+ },
+ {
+   "Zip": 60625,
+   "value": 20791209.96,
+   "JobsRetained": 2901
+ },
+ {
+   "Zip": 60626,
+   "value": 8450758.09,
+   "JobsRetained": 1277
+ },
+ {
+   "Zip": 60628,
+   "value": 11423038.83,
+   "JobsRetained": 1771
+ },
+ {
+   "Zip": 60629,
+   "value": 10590878.74,
+   "JobsRetained": 1634
+ },
+ {
+   "Zip": 60630,
+   "value": 19849456.9,
+   "JobsRetained": 2621
+ },
+ {
+   "Zip": 60631,
+   "value": 15305509.06,
+   "JobsRetained": 1884
+ },
+ {
+   "Zip": 60632,
+   "value": 14740782.11,
+   "JobsRetained": 2273
+ },
+ {
+   "Zip": 60633,
+   "value": 2429136.91,
+   "JobsRetained": 304
+ },
+ {
+   "Zip": 60634,
+   "value": 17497762.05,
+   "JobsRetained": 2970
+ },
+ {
+   "Zip": 60636,
+   "value": 5248852.34,
+   "JobsRetained": 783
+ },
+ {
+   "Zip": 60637,
+   "value": 8804867.71,
+   "JobsRetained": 1604
+ },
+ {
+   "Zip": 60638,
+   "value": 16363486.62,
+   "JobsRetained": 2145
+ },
+ {
+   "Zip": 60639,
+   "value": 16496839.33,
+   "JobsRetained": 3019
+ },
+ {
+   "Zip": 60640,
+   "value": 27903605.75,
+   "JobsRetained": 4027
+ },
+ {
+   "Zip": 60641,
+   "value": 19707650.5,
+   "JobsRetained": 2634
+ },
+ {
+   "Zip": 60642,
+   "value": 27754061.78,
+   "JobsRetained": 3600
+ },
+ {
+   "Zip": 60643,
+   "value": 14092053.52,
+   "JobsRetained": 2106
+ },
+ {
+   "Zip": 60644,
+   "value": 8553724.86,
+   "JobsRetained": 1154
+ },
+ {
+   "Zip": 60645,
+   "value": 13051943.33,
+   "JobsRetained": 1577
+ },
+ {
+   "Zip": 60646,
+   "value": 15848383.68,
+   "JobsRetained": 2709
+ },
+ {
+   "Zip": 60647,
+   "value": 38797436.87,
+   "JobsRetained": 5834
+ },
+ {
+   "Zip": 60649,
+   "value": 6580193.05,
+   "JobsRetained": 846
+ },
+ {
+   "Zip": 60651,
+   "value": 8550511.33,
+   "JobsRetained": 1265
+ },
+ {
+   "Zip": 60652,
+   "value": 5920077.07,
+   "JobsRetained": 804
+ },
+ {
+   "Zip": 60653,
+   "value": 9374489.97,
+   "JobsRetained": 1751
+ },
+ {
+   "Zip": 60654,
+   "value": 48903674.42,
+   "JobsRetained": 5137
+ },
+ {
+   "Zip": 60655,
+   "value": 5414793.22,
+   "JobsRetained": 782
+ },
+ {
+   "Zip": 60656,
+   "value": 8790746.53,
+   "JobsRetained": 1132
+ },
+ {
+   "Zip": 60657,
+   "value": 37568966.26,
+   "JobsRetained": 5276
+ },
+ {
+   "Zip": 60658,
+   "value": 45485,
+   "JobsRetained": 3
+ },
+ {
+   "Zip": 60659,
+   "value": 19946221.91,
+   "JobsRetained": 3038
+ },
+ {
+   "Zip": 60660,
+   "value": 11041842.21,
+   "JobsRetained": 1653
+ },
+ {
+   "Zip": 60661,
+   "value": 17835596.58,
+   "JobsRetained": 1948
+ },
+ {
+   "Zip": 60664,
+   "value": 23200,
+   "JobsRetained": 1
+ },
+ {
+   "Zip": 60666,
+   "value": 550044.5,
+   "JobsRetained": 76
+ },
+ {
+   "Zip": 60667,
+   "value": 7500,
+   "JobsRetained": 1
+ },
+ {
+   "Zip": 60668,
+   "value": 10890,
+   "JobsRetained": 2
+ },
+ {
+   "Zip": 60674,
+   "value": 74200,
+   "JobsRetained": 6
+ },
+ {
+   "Zip": 60680,
+   "value": 23991,
+   "JobsRetained": 4
+ },
+ {
+   "Zip": 60681,
+   "value": 8005,
+   "JobsRetained": 1
+ },
+ {
+   "Zip": 60690,
+   "value": 6841,
+   "JobsRetained": 1
+ },
+ {
+   "Zip": 60694,
+   "value": 1800,
+   "JobsRetained": 1
+ },
+ {
+   "Zip": 60699,
+   "value": 2630,
+   "JobsRetained": 1
+ },
+ {
+   "Zip": 60701,
+   "value": 1556.37,
+   "JobsRetained": 2
+ },
+ {
+   "Zip": 60704,
+   "value": 15322,
+   "JobsRetained": 3
+ },
+ {
+   "Zip": 60706,
+   "value": 10235121.6,
+   "JobsRetained": 1764
+ },
+ {
+   "Zip": 60707,
+   "value": 10192369.02,
+   "JobsRetained": 2104
+ },
+ {
+   "Zip": 60712,
+   "value": 12999242.7,
+   "JobsRetained": 1835
+ },
+ {
+   "Zip": 60714,
+   "value": 19524448.57,
+   "JobsRetained": 3515
+ },
+ {
+   "Zip": 60803,
+   "value": 13008765.77,
+   "JobsRetained": 1893
+ },
+ {
+   "Zip": 60804,
+   "value": 11028292.01,
+   "JobsRetained": 1871
+ },
+ {
+   "Zip": 60805,
+   "value": 8203368.58,
+   "JobsRetained": 1455
+ },
+ {
+   "Zip": 60827,
+   "value": 3944913.4,
+   "JobsRetained": 563
+ },
+ {
+   "Zip": 60901,
+   "value": 11348229.06,
+   "JobsRetained": 1813
+ },
+ {
+   "Zip": 60910,
+   "value": 12097,
+   "JobsRetained": 0
+ },
+ {
+   "Zip": 60911,
+   "value": 625803,
+   "JobsRetained": 123
+ },
+ {
+   "Zip": 60912,
+   "value": 68722.32,
+   "JobsRetained": 9
+ },
+ {
+   "Zip": 60913,
+   "value": 248790.12,
+   "JobsRetained": 28
+ },
+ {
+   "Zip": 60914,
+   "value": 12924010.85,
+   "JobsRetained": 2502
+ },
+ {
+   "Zip": 60915,
+   "value": 4375663.34,
+   "JobsRetained": 862
+ },
+ {
+   "Zip": 60917,
+   "value": 142383.49,
+   "JobsRetained": 13
+ },
+ {
+   "Zip": 60918,
+   "value": 554075.02,
+   "JobsRetained": 67
+ },
+ {
+   "Zip": 60919,
+   "value": 181940.07,
+   "JobsRetained": 38
+ },
+ {
+   "Zip": 60920,
+   "value": 70562,
+   "JobsRetained": 11
+ },
+ {
+   "Zip": 60921,
+   "value": 663986.29,
+   "JobsRetained": 71
+ },
+ {
+   "Zip": 60922,
+   "value": 1220282.67,
+   "JobsRetained": 158
+ },
+ {
+   "Zip": 60924,
+   "value": 1160755.08,
+   "JobsRetained": 152
+ },
+ {
+   "Zip": 60926,
+   "value": 8332,
+   "JobsRetained": 2
+ },
+ {
+   "Zip": 60927,
+   "value": 902462.25,
+   "JobsRetained": 164
+ },
+ {
+   "Zip": 60928,
+   "value": 253239.9,
+   "JobsRetained": 33
+ },
+ {
+   "Zip": 60929,
+   "value": 459663,
+   "JobsRetained": 62
+ },
+ {
+   "Zip": 60930,
+   "value": 257303.25,
+   "JobsRetained": 37
+ },
+ {
+   "Zip": 60931,
+   "value": 63139,
+   "JobsRetained": 8
+ },
+ {
+   "Zip": 60932,
+   "value": 85398.57,
+   "JobsRetained": 14
+ },
+ {
+   "Zip": 60934,
+   "value": 147776.5,
+   "JobsRetained": 19
+ },
+ {
+   "Zip": 60935,
+   "value": 146516,
+   "JobsRetained": 24
+ },
+ {
+   "Zip": 60936,
+   "value": 1974148.98,
+   "JobsRetained": 334
+ },
+ {
+   "Zip": 60938,
+   "value": 1362841.81,
+   "JobsRetained": 324
+ },
+ {
+   "Zip": 60940,
+   "value": 1105626.88,
+   "JobsRetained": 172
+ },
+ {
+   "Zip": 60941,
+   "value": 808813.14,
+   "JobsRetained": 112
+ },
+ {
+   "Zip": 60942,
+   "value": 1755355.42,
+   "JobsRetained": 331
+ },
+ {
+   "Zip": 60944,
+   "value": 40902,
+   "JobsRetained": 10
+ },
+ {
+   "Zip": 60945,
+   "value": 246093.67,
+   "JobsRetained": 30
+ },
+ {
+   "Zip": 60946,
+   "value": 104467.5,
+   "JobsRetained": 14
+ },
+ {
+   "Zip": 60948,
+   "value": 485799.45,
+   "JobsRetained": 58
+ },
+ {
+   "Zip": 60949,
+   "value": 138206.42,
+   "JobsRetained": 12
+ },
+ {
+   "Zip": 60950,
+   "value": 4588853.45,
+   "JobsRetained": 779
+ },
+ {
+   "Zip": 60951,
+   "value": 107273.5,
+   "JobsRetained": 16
+ },
+ {
+   "Zip": 60952,
+   "value": 97131.32,
+   "JobsRetained": 11
+ },
+ {
+   "Zip": 60953,
+   "value": 911162.12,
+   "JobsRetained": 124
+ },
+ {
+   "Zip": 60954,
+   "value": 1018401.84,
+   "JobsRetained": 146
+ },
+ {
+   "Zip": 60955,
+   "value": 805215.15,
+   "JobsRetained": 151
+ },
+ {
+   "Zip": 60956,
+   "value": 69215,
+   "JobsRetained": 9
+ },
+ {
+   "Zip": 60957,
+   "value": 2378551.28,
+   "JobsRetained": 357
+ },
+ {
+   "Zip": 60958,
+   "value": 111234,
+   "JobsRetained": 21
+ },
+ {
+   "Zip": 60959,
+   "value": 370958,
+   "JobsRetained": 50
+ },
+ {
+   "Zip": 60960,
+   "value": 321354.17,
+   "JobsRetained": 36
+ },
+ {
+   "Zip": 60961,
+   "value": 249248.15,
+   "JobsRetained": 27
+ },
+ {
+   "Zip": 60962,
+   "value": 344526.37,
+   "JobsRetained": 50
+ },
+ {
+   "Zip": 60963,
+   "value": 452935.27,
+   "JobsRetained": 75
+ },
+ {
+   "Zip": 60964,
+   "value": 1371809.91,
+   "JobsRetained": 276
+ },
+ {
+   "Zip": 60966,
+   "value": 571449,
+   "JobsRetained": 93
+ },
+ {
+   "Zip": 60967,
+   "value": 28850,
+   "JobsRetained": 6
+ },
+ {
+   "Zip": 60968,
+   "value": 238287,
+   "JobsRetained": 25
+ },
+ {
+   "Zip": 60969,
+   "value": 149753,
+   "JobsRetained": 18
+ },
+ {
+   "Zip": 60970,
+   "value": 3328257.81,
+   "JobsRetained": 708
+ },
+ {
+   "Zip": 60973,
+   "value": 101904,
+   "JobsRetained": 14
+ },
+ {
+   "Zip": 60974,
+   "value": 49510,
+   "JobsRetained": 4
+ },
+ {
+   "Zip": 61001,
+   "value": 380278.72,
+   "JobsRetained": 60
+ },
+ {
+   "Zip": 61006,
+   "value": 372525.66,
+   "JobsRetained": 29
+ },
+ {
+   "Zip": 61007,
+   "value": 153329.25,
+   "JobsRetained": 26
+ },
+ {
+   "Zip": 61008,
+   "value": 9438578.13,
+   "JobsRetained": 1505
+ },
+ {
+   "Zip": 61010,
+   "value": 3052563.07,
+   "JobsRetained": 452
+ },
+ {
+   "Zip": 61011,
+   "value": 1525832.12,
+   "JobsRetained": 242
+ },
+ {
+   "Zip": 61012,
+   "value": 231137.5,
+   "JobsRetained": 31
+ },
+ {
+   "Zip": 61013,
+   "value": 10857,
+   "JobsRetained": 2
+ },
+ {
+   "Zip": 61014,
+   "value": 823911.83,
+   "JobsRetained": 91
+ },
+ {
+   "Zip": 61015,
+   "value": 226256.5,
+   "JobsRetained": 27
+ },
+ {
+   "Zip": 61016,
+   "value": 1312282.8,
+   "JobsRetained": 200
+ },
+ {
+   "Zip": 61018,
+   "value": 825988.85,
+   "JobsRetained": 250
+ },
+ {
+   "Zip": 61019,
+   "value": 428247.54,
+   "JobsRetained": 90
+ },
+ {
+   "Zip": 61020,
+   "value": 745526.15,
+   "JobsRetained": 86
+ },
+ {
+   "Zip": 61021,
+   "value": 8055279.47,
+   "JobsRetained": 1339
+ },
+ {
+   "Zip": 61024,
+   "value": 892361.81,
+   "JobsRetained": 191
+ },
+ {
+   "Zip": 61025,
+   "value": 1909549.81,
+   "JobsRetained": 362
+ },
+ {
+   "Zip": 61028,
+   "value": 1301341.22,
+   "JobsRetained": 239
+ },
+ {
+   "Zip": 61030,
+   "value": 981057.05,
+   "JobsRetained": 170
+ },
+ {
+   "Zip": 61031,
+   "value": 457504.92,
+   "JobsRetained": 64
+ },
+ {
+   "Zip": 61032,
+   "value": 11267778.33,
+   "JobsRetained": 2048
+ },
+ {
+   "Zip": 61036,
+   "value": 5763108.81,
+   "JobsRetained": 1115
+ },
+ {
+   "Zip": 61038,
+   "value": 568341,
+   "JobsRetained": 88
+ },
+ {
+   "Zip": 61039,
+   "value": 386021.12,
+   "JobsRetained": 45
+ },
+ {
+   "Zip": 61041,
+   "value": 409580,
+   "JobsRetained": 59
+ },
+ {
+   "Zip": 61042,
+   "value": 189285.27,
+   "JobsRetained": 26
+ },
+ {
+   "Zip": 61043,
+   "value": 60200,
+   "JobsRetained": 5
+ },
+ {
+   "Zip": 61044,
+   "value": 187427,
+   "JobsRetained": 25
+ },
+ {
+   "Zip": 61046,
+   "value": 1834047.25,
+   "JobsRetained": 272
+ },
+ {
+   "Zip": 61047,
+   "value": 551090,
+   "JobsRetained": 86
+ },
+ {
+   "Zip": 61048,
+   "value": 2747265.74,
+   "JobsRetained": 524
+ },
+ {
+   "Zip": 61049,
+   "value": 59426.65,
+   "JobsRetained": 6
+ },
+ {
+   "Zip": 61050,
+   "value": 78378.54,
+   "JobsRetained": 9
+ },
+ {
+   "Zip": 61051,
+   "value": 1052771.42,
+   "JobsRetained": 150
+ },
+ {
+   "Zip": 61052,
+   "value": 328608.57,
+   "JobsRetained": 47
+ },
+ {
+   "Zip": 61053,
+   "value": 1495612.47,
+   "JobsRetained": 215
+ },
+ {
+   "Zip": 61054,
+   "value": 779951.32,
+   "JobsRetained": 163
+ },
+ {
+   "Zip": 61059,
+   "value": 92700,
+   "JobsRetained": 13
+ },
+ {
+   "Zip": 61060,
+   "value": 334174.75,
+   "JobsRetained": 56
+ },
+ {
+   "Zip": 61061,
+   "value": 2619330.9,
+   "JobsRetained": 402
+ },
+ {
+   "Zip": 61062,
+   "value": 845672.54,
+   "JobsRetained": 129
+ },
+ {
+   "Zip": 61063,
+   "value": 1000858.67,
+   "JobsRetained": 224
+ },
+ {
+   "Zip": 61064,
+   "value": 1222189.62,
+   "JobsRetained": 246
+ },
+ {
+   "Zip": 61065,
+   "value": 1575298.15,
+   "JobsRetained": 401
+ },
+ {
+   "Zip": 61067,
+   "value": 183630,
+   "JobsRetained": 24
+ },
+ {
+   "Zip": 61068,
+   "value": 4975794.63,
+   "JobsRetained": 907
+ },
+ {
+   "Zip": 61070,
+   "value": 547939.96,
+   "JobsRetained": 89
+ },
+ {
+   "Zip": 61071,
+   "value": 4612385.64,
+   "JobsRetained": 814
+ },
+ {
+   "Zip": 61072,
+   "value": 2700528.41,
+   "JobsRetained": 425
+ },
+ {
+   "Zip": 61073,
+   "value": 6336212.24,
+   "JobsRetained": 956
+ },
+ {
+   "Zip": 61074,
+   "value": 1940735.11,
+   "JobsRetained": 346
+ },
+ {
+   "Zip": 61075,
+   "value": 886527,
+   "JobsRetained": 142
+ },
+ {
+   "Zip": 61078,
+   "value": 894544.13,
+   "JobsRetained": 116
+ },
+ {
+   "Zip": 61079,
+   "value": 2125,
+   "JobsRetained": 1
+ },
+ {
+   "Zip": 61080,
+   "value": 3320460.27,
+   "JobsRetained": 510
+ },
+ {
+   "Zip": 61081,
+   "value": 7197017.67,
+   "JobsRetained": 1473
+ },
+ {
+   "Zip": 61084,
+   "value": 644747.53,
+   "JobsRetained": 106
+ },
+ {
+   "Zip": 61085,
+   "value": 1851669.1,
+   "JobsRetained": 325
+ },
+ {
+   "Zip": 61087,
+   "value": 1101376.94,
+   "JobsRetained": 227
+ },
+ {
+   "Zip": 61088,
+   "value": 1514351.82,
+   "JobsRetained": 302
+ },
+ {
+   "Zip": 61089,
+   "value": 543267.64,
+   "JobsRetained": 79
+ },
+ {
+   "Zip": 61091,
+   "value": 4269,
+   "JobsRetained": 1
+ },
+ {
+   "Zip": 61101,
+   "value": 5072480.49,
+   "JobsRetained": 644
+ },
+ {
+   "Zip": 61102,
+   "value": 3293829.73,
+   "JobsRetained": 456
+ },
+ {
+   "Zip": 61103,
+   "value": 4193359.29,
+   "JobsRetained": 845
+ },
+ {
+   "Zip": 61104,
+   "value": 8152942.21,
+   "JobsRetained": 1157
+ },
+ {
+   "Zip": 61105,
+   "value": 40537,
+   "JobsRetained": 28
+ },
+ {
+   "Zip": 61106,
+   "value": 11552,
+   "JobsRetained": 4
+ },
+ {
+   "Zip": 61107,
+   "value": 13168920.94,
+   "JobsRetained": 1928
+ },
+ {
+   "Zip": 61108,
+   "value": 12616681.7,
+   "JobsRetained": 2017
+ },
+ {
+   "Zip": 61109,
+   "value": 9124397.75,
+   "JobsRetained": 1248
+ },
+ {
+   "Zip": 61110,
+   "value": 61708,
+   "JobsRetained": 10
+ },
+ {
+   "Zip": 61111,
+   "value": 16870778.04,
+   "JobsRetained": 2592
+ },
+ {
+   "Zip": 61112,
+   "value": 1632133.34,
+   "JobsRetained": 338
+ },
+ {
+   "Zip": 61114,
+   "value": 5244492.44,
+   "JobsRetained": 845
+ },
+ {
+   "Zip": 61115,
+   "value": 6290028.58,
+   "JobsRetained": 928
+ },
+ {
+   "Zip": 61125,
+   "value": 193832,
+   "JobsRetained": 24
+ },
+ {
+   "Zip": 61130,
+   "value": 20833.34,
+   "JobsRetained": 2
+ },
+ {
+   "Zip": 61132,
+   "value": 5937,
+   "JobsRetained": 2
+ },
+ {
+   "Zip": 61201,
+   "value": 8642180.15,
+   "JobsRetained": 1702
+ },
+ {
+   "Zip": 61204,
+   "value": 10000,
+   "JobsRetained": 10
+ },
+ {
+   "Zip": 61230,
+   "value": 104845.83,
+   "JobsRetained": 25
+ },
+ {
+   "Zip": 61231,
+   "value": 2819508.85,
+   "JobsRetained": 600
+ },
+ {
+   "Zip": 61232,
+   "value": 408874.45,
+   "JobsRetained": 79
+ },
+ {
+   "Zip": 61233,
+   "value": 69300,
+   "JobsRetained": 11
+ },
+ {
+   "Zip": 61234,
+   "value": 742920.74,
+   "JobsRetained": 121
+ },
+ {
+   "Zip": 61235,
+   "value": 941188.1,
+   "JobsRetained": 144
+ },
+ {
+   "Zip": 61237,
+   "value": 92150,
+   "JobsRetained": 13
+ },
+ {
+   "Zip": 61238,
+   "value": 933177.75,
+   "JobsRetained": 180
+ },
+ {
+   "Zip": 61239,
+   "value": 80620.85,
+   "JobsRetained": 7
+ },
+ {
+   "Zip": 61240,
+   "value": 1832949.29,
+   "JobsRetained": 330
+ },
+ {
+   "Zip": 61241,
+   "value": 1507340.3,
+   "JobsRetained": 282
+ },
+ {
+   "Zip": 61242,
+   "value": 222554.67,
+   "JobsRetained": 25
+ },
+ {
+   "Zip": 61243,
+   "value": 164427,
+   "JobsRetained": 64
+ },
+ {
+   "Zip": 61244,
+   "value": 5186439.39,
+   "JobsRetained": 863
+ },
+ {
+   "Zip": 61250,
+   "value": 713059.67,
+   "JobsRetained": 118
+ },
+ {
+   "Zip": 61251,
+   "value": 63920,
+   "JobsRetained": 3
+ },
+ {
+   "Zip": 61252,
+   "value": 1772408.72,
+   "JobsRetained": 360
+ },
+ {
+   "Zip": 61254,
+   "value": 6145696.23,
+   "JobsRetained": 1646
+ },
+ {
+   "Zip": 61256,
+   "value": 275303.5,
+   "JobsRetained": 56
+ },
+ {
+   "Zip": 61257,
+   "value": 398401.15,
+   "JobsRetained": 44
+ },
+ {
+   "Zip": 61259,
+   "value": 260198.7,
+   "JobsRetained": 33
+ },
+ {
+   "Zip": 61260,
+   "value": 287096.3,
+   "JobsRetained": 40
+ },
+ {
+   "Zip": 61261,
+   "value": 240036.75,
+   "JobsRetained": 48
+ },
+ {
+   "Zip": 61262,
+   "value": 432498.97,
+   "JobsRetained": 38
+ },
+ {
+   "Zip": 61263,
+   "value": 97140.57,
+   "JobsRetained": 9
+ },
+ {
+   "Zip": 61264,
+   "value": 3526233.34,
+   "JobsRetained": 573
+ },
+ {
+   "Zip": 61265,
+   "value": 19204206.29,
+   "JobsRetained": 3144
+ },
+ {
+   "Zip": 61270,
+   "value": 2946179.6,
+   "JobsRetained": 535
+ },
+ {
+   "Zip": 61272,
+   "value": 178345.71,
+   "JobsRetained": 36
+ },
+ {
+   "Zip": 61273,
+   "value": 1389842.5,
+   "JobsRetained": 239
+ },
+ {
+   "Zip": 61274,
+   "value": 145176.17,
+   "JobsRetained": 19
+ },
+ {
+   "Zip": 61275,
+   "value": 1245242.41,
+   "JobsRetained": 211
+ },
+ {
+   "Zip": 61276,
+   "value": 7103.32,
+   "JobsRetained": 0
+ },
+ {
+   "Zip": 61277,
+   "value": 1247334.75,
+   "JobsRetained": 182
+ },
+ {
+   "Zip": 61278,
+   "value": 317037,
+   "JobsRetained": 39
+ },
+ {
+   "Zip": 61279,
+   "value": 446594.39,
+   "JobsRetained": 57
+ },
+ {
+   "Zip": 61281,
+   "value": 310440.57,
+   "JobsRetained": 53
+ },
+ {
+   "Zip": 61282,
+   "value": 1866473.01,
+   "JobsRetained": 297
+ },
+ {
+   "Zip": 61283,
+   "value": 582853.11,
+   "JobsRetained": 62
+ },
+ {
+   "Zip": 61284,
+   "value": 513734.45,
+   "JobsRetained": 91
+ },
+ {
+   "Zip": 61285,
+   "value": 470147.42,
+   "JobsRetained": 94
+ },
+ {
+   "Zip": 61299,
+   "value": 16362,
+   "JobsRetained": 3
+ },
+ {
+   "Zip": 61301,
+   "value": 5121165.76,
+   "JobsRetained": 667
+ },
+ {
+   "Zip": 61310,
+   "value": 890257.86,
+   "JobsRetained": 150
+ },
+ {
+   "Zip": 61311,
+   "value": 48795,
+   "JobsRetained": 4
+ },
+ {
+   "Zip": 61312,
+   "value": 172406.16,
+   "JobsRetained": 39
+ },
+ {
+   "Zip": 61313,
+   "value": 284710.79,
+   "JobsRetained": 32
+ },
+ {
+   "Zip": 61314,
+   "value": 280660.57,
+   "JobsRetained": 22
+ },
+ {
+   "Zip": 61315,
+   "value": 12295,
+   "JobsRetained": 3
+ },
+ {
+   "Zip": 61316,
+   "value": 135943,
+   "JobsRetained": 22
+ },
+ {
+   "Zip": 61317,
+   "value": 66911.73,
+   "JobsRetained": 9
+ },
+ {
+   "Zip": 61318,
+   "value": 171403.46,
+   "JobsRetained": 19
+ },
+ {
+   "Zip": 61319,
+   "value": 323434,
+   "JobsRetained": 36
+ },
+ {
+   "Zip": 61320,
+   "value": 8570.45,
+   "JobsRetained": 5
+ },
+ {
+   "Zip": 61321,
+   "value": 101042,
+   "JobsRetained": 11
+ },
+ {
+   "Zip": 61322,
+   "value": 7512.78,
+   "JobsRetained": 6
+ },
+ {
+   "Zip": 61323,
+   "value": 13138.52,
+   "JobsRetained": 1
+ },
+ {
+   "Zip": 61325,
+   "value": 475816.36,
+   "JobsRetained": 51
+ },
+ {
+   "Zip": 61326,
+   "value": 886378.99,
+   "JobsRetained": 84
+ },
+ {
+   "Zip": 61327,
+   "value": 767752.12,
+   "JobsRetained": 75
+ },
+ {
+   "Zip": 61328,
+   "value": 25400,
+   "JobsRetained": 2
+ },
+ {
+   "Zip": 61329,
+   "value": 456562.08,
+   "JobsRetained": 48
+ },
+ {
+   "Zip": 61330,
+   "value": 436961.03,
+   "JobsRetained": 68
+ },
+ {
+   "Zip": 61332,
+   "value": 127405,
+   "JobsRetained": 17
+ },
+ {
+   "Zip": 61333,
+   "value": 73197,
+   "JobsRetained": 5
+ },
+ {
+   "Zip": 61334,
+   "value": 142890.37,
+   "JobsRetained": 21
+ },
+ {
+   "Zip": 61335,
+   "value": 487951.17,
+   "JobsRetained": 78
+ },
+ {
+   "Zip": 61336,
+   "value": 160596.02,
+   "JobsRetained": 38
+ },
+ {
+   "Zip": 61337,
+   "value": 81537.5,
+   "JobsRetained": 8
+ },
+ {
+   "Zip": 61338,
+   "value": 50361.5,
+   "JobsRetained": 7
+ },
+ {
+   "Zip": 61340,
+   "value": 247118.07,
+   "JobsRetained": 31
+ },
+ {
+   "Zip": 61341,
+   "value": 1282175.46,
+   "JobsRetained": 238
+ },
+ {
+   "Zip": 61342,
+   "value": 3555792.29,
+   "JobsRetained": 601
+ },
+ {
+   "Zip": 61344,
+   "value": 89120,
+   "JobsRetained": 9
+ },
+ {
+   "Zip": 61345,
+   "value": 321239.69,
+   "JobsRetained": 36
+ },
+ {
+   "Zip": 61346,
+   "value": 240600,
+   "JobsRetained": 21
+ },
+ {
+   "Zip": 61348,
+   "value": 1647254.46,
+   "JobsRetained": 180
+ },
+ {
+   "Zip": 61349,
+   "value": 576539.95,
+   "JobsRetained": 70
+ },
+ {
+   "Zip": 61350,
+   "value": 13048257.47,
+   "JobsRetained": 2094
+ },
+ {
+   "Zip": 61353,
+   "value": 73629.08,
+   "JobsRetained": 10
+ },
+ {
+   "Zip": 61354,
+   "value": 8344015.34,
+   "JobsRetained": 1250
+ },
+ {
+   "Zip": 61356,
+   "value": 5494538.9,
+   "JobsRetained": 991
+ },
+ {
+   "Zip": 61358,
+   "value": 48955,
+   "JobsRetained": 4
+ },
+ {
+   "Zip": 61359,
+   "value": 29787.5,
+   "JobsRetained": 5
+ },
+ {
+   "Zip": 61360,
+   "value": 480386.07,
+   "JobsRetained": 79
+ },
+ {
+   "Zip": 61361,
+   "value": 812719.51,
+   "JobsRetained": 121
+ },
+ {
+   "Zip": 61362,
+   "value": 2081424.97,
+   "JobsRetained": 312
+ },
+ {
+   "Zip": 61363,
+   "value": 78417.7,
+   "JobsRetained": 16
+ },
+ {
+   "Zip": 61364,
+   "value": 5049283.65,
+   "JobsRetained": 899
+ },
+ {
+   "Zip": 61367,
+   "value": 608078.59,
+   "JobsRetained": 93
+ },
+ {
+   "Zip": 61368,
+   "value": 342869.5,
+   "JobsRetained": 63
+ },
+ {
+   "Zip": 61369,
+   "value": 621908.87,
+   "JobsRetained": 149
+ },
+ {
+   "Zip": 61370,
+   "value": 839068.82,
+   "JobsRetained": 93
+ },
+ {
+   "Zip": 61372,
+   "value": 13856.8,
+   "JobsRetained": 4
+ },
+ {
+   "Zip": 61373,
+   "value": 930768.36,
+   "JobsRetained": 184
+ },
+ {
+   "Zip": 61375,
+   "value": 481947.5,
+   "JobsRetained": 70
+ },
+ {
+   "Zip": 61376,
+   "value": 1554954.42,
+   "JobsRetained": 226
+ },
+ {
+   "Zip": 61377,
+   "value": 309731.22,
+   "JobsRetained": 60
+ },
+ {
+   "Zip": 61378,
+   "value": 540406.83,
+   "JobsRetained": 47
+ },
+ {
+   "Zip": 61379,
+   "value": 555848.41,
+   "JobsRetained": 60
+ },
+ {
+   "Zip": 61401,
+   "value": 11806972.5,
+   "JobsRetained": 2231
+ },
+ {
+   "Zip": 61402,
+   "value": 189179.77,
+   "JobsRetained": 31
+ },
+ {
+   "Zip": 61410,
+   "value": 540317.66,
+   "JobsRetained": 119
+ },
+ {
+   "Zip": 61411,
+   "value": 159318.58,
+   "JobsRetained": 14
+ },
+ {
+   "Zip": 61412,
+   "value": 682979.92,
+   "JobsRetained": 94
+ },
+ {
+   "Zip": 61413,
+   "value": 520316.16,
+   "JobsRetained": 54
+ },
+ {
+   "Zip": 61414,
+   "value": 635413.24,
+   "JobsRetained": 89
+ },
+ {
+   "Zip": 61415,
+   "value": 688410.54,
+   "JobsRetained": 87
+ },
+ {
+   "Zip": 61417,
+   "value": 210856.05,
+   "JobsRetained": 45
+ },
+ {
+   "Zip": 61418,
+   "value": 493193.7,
+   "JobsRetained": 76
+ },
+ {
+   "Zip": 61419,
+   "value": 121091.67,
+   "JobsRetained": 36
+ },
+ {
+   "Zip": 61420,
+   "value": 380049.12,
+   "JobsRetained": 53
+ },
+ {
+   "Zip": 61421,
+   "value": 598503.34,
+   "JobsRetained": 83
+ },
+ {
+   "Zip": 61422,
+   "value": 1235894.07,
+   "JobsRetained": 258
+ },
+ {
+   "Zip": 61423,
+   "value": 483702,
+   "JobsRetained": 84
+ },
+ {
+   "Zip": 61424,
+   "value": 19400,
+   "JobsRetained": 7
+ },
+ {
+   "Zip": 61425,
+   "value": 95977.4,
+   "JobsRetained": 14
+ },
+ {
+   "Zip": 61427,
+   "value": 278915.42,
+   "JobsRetained": 75
+ },
+ {
+   "Zip": 61428,
+   "value": 407963.66,
+   "JobsRetained": 31
+ },
+ {
+   "Zip": 61430,
+   "value": 39133,
+   "JobsRetained": 5
+ },
+ {
+   "Zip": 61431,
+   "value": 32966.12,
+   "JobsRetained": 5
+ },
+ {
+   "Zip": 61432,
+   "value": 203131.4,
+   "JobsRetained": 45
+ },
+ {
+   "Zip": 61434,
+   "value": 1184107.45,
+   "JobsRetained": 236
+ },
+ {
+   "Zip": 61435,
+   "value": 4321.57,
+   "JobsRetained": 3
+ },
+ {
+   "Zip": 61436,
+   "value": 167212.42,
+   "JobsRetained": 30
+ },
+ {
+   "Zip": 61437,
+   "value": 235022,
+   "JobsRetained": 23
+ },
+ {
+   "Zip": 61438,
+   "value": 189055.45,
+   "JobsRetained": 31
+ },
+ {
+   "Zip": 61440,
+   "value": 409358.14,
+   "JobsRetained": 98
+ },
+ {
+   "Zip": 61441,
+   "value": 208566.57,
+   "JobsRetained": 42
+ },
+ {
+   "Zip": 61442,
+   "value": 103796,
+   "JobsRetained": 29
+ },
+ {
+   "Zip": 61443,
+   "value": 3712227.61,
+   "JobsRetained": 675
+ },
+ {
+   "Zip": 61447,
+   "value": 285737.62,
+   "JobsRetained": 113
+ },
+ {
+   "Zip": 61448,
+   "value": 725091.44,
+   "JobsRetained": 175
+ },
+ {
+   "Zip": 61449,
+   "value": 69576,
+   "JobsRetained": 12
+ },
+ {
+   "Zip": 61450,
+   "value": 826483.66,
+   "JobsRetained": 123
+ },
+ {
+   "Zip": 61451,
+   "value": 245157.26,
+   "JobsRetained": 27
+ },
+ {
+   "Zip": 61452,
+   "value": 73515.29,
+   "JobsRetained": 11
+ },
+ {
+   "Zip": 61453,
+   "value": 285113.59,
+   "JobsRetained": 46
+ },
+ {
+   "Zip": 61454,
+   "value": 116035.2,
+   "JobsRetained": 35
+ },
+ {
+   "Zip": 61455,
+   "value": 6605665.35,
+   "JobsRetained": 1422
+ },
+ {
+   "Zip": 61458,
+   "value": 243982.24,
+   "JobsRetained": 42
+ },
+ {
+   "Zip": 61459,
+   "value": 69202.5,
+   "JobsRetained": 21
+ },
+ {
+   "Zip": 61460,
+   "value": 218185.35,
+   "JobsRetained": 34
+ },
+ {
+   "Zip": 61462,
+   "value": 3773887.91,
+   "JobsRetained": 743
+ },
+ {
+   "Zip": 61465,
+   "value": 321192.99,
+   "JobsRetained": 61
+ },
+ {
+   "Zip": 61466,
+   "value": 38969.75,
+   "JobsRetained": 6
+ },
+ {
+   "Zip": 61467,
+   "value": 507036.49,
+   "JobsRetained": 57
+ },
+ {
+   "Zip": 61469,
+   "value": 348955.68,
+   "JobsRetained": 88
+ },
+ {
+   "Zip": 61470,
+   "value": 229592.86,
+   "JobsRetained": 35
+ },
+ {
+   "Zip": 61471,
+   "value": 58883.67,
+   "JobsRetained": 6
+ },
+ {
+   "Zip": 61472,
+   "value": 398498.85,
+   "JobsRetained": 61
+ },
+ {
+   "Zip": 61473,
+   "value": 859135.6,
+   "JobsRetained": 504
+ },
+ {
+   "Zip": 61474,
+   "value": 159500,
+   "JobsRetained": 22
+ },
+ {
+   "Zip": 61475,
+   "value": 150227.02,
+   "JobsRetained": 20
+ },
+ {
+   "Zip": 61476,
+   "value": 182476.17,
+   "JobsRetained": 42
+ },
+ {
+   "Zip": 61477,
+   "value": 358228.29,
+   "JobsRetained": 42
+ },
+ {
+   "Zip": 61478,
+   "value": 222192.25,
+   "JobsRetained": 33
+ },
+ {
+   "Zip": 61479,
+   "value": 189946.17,
+   "JobsRetained": 32
+ },
+ {
+   "Zip": 61480,
+   "value": 434576.31,
+   "JobsRetained": 99
+ },
+ {
+   "Zip": 61482,
+   "value": 146984.67,
+   "JobsRetained": 27
+ },
+ {
+   "Zip": 61483,
+   "value": 981745.53,
+   "JobsRetained": 140
+ },
+ {
+   "Zip": 61484,
+   "value": 209300.92,
+   "JobsRetained": 38
+ },
+ {
+   "Zip": 61485,
+   "value": 394993.94,
+   "JobsRetained": 78
+ },
+ {
+   "Zip": 61486,
+   "value": 279077.96,
+   "JobsRetained": 82
+ },
+ {
+   "Zip": 61488,
+   "value": 344701.27,
+   "JobsRetained": 47
+ },
+ {
+   "Zip": 61489,
+   "value": 479577.87,
+   "JobsRetained": 67
+ },
+ {
+   "Zip": 61490,
+   "value": 830327.42,
+   "JobsRetained": 143
+ },
+ {
+   "Zip": 61491,
+   "value": 1307129.19,
+   "JobsRetained": 204
+ },
+ {
+   "Zip": 61501,
+   "value": 608204.31,
+   "JobsRetained": 112
+ },
+ {
+   "Zip": 61516,
+   "value": 265380,
+   "JobsRetained": 54
+ },
+ {
+   "Zip": 61517,
+   "value": 1860100.75,
+   "JobsRetained": 257
+ },
+ {
+   "Zip": 61519,
+   "value": 16624,
+   "JobsRetained": 3
+ },
+ {
+   "Zip": 61520,
+   "value": 4442003.72,
+   "JobsRetained": 840
+ },
+ {
+   "Zip": 61523,
+   "value": 2349838.17,
+   "JobsRetained": 369
+ },
+ {
+   "Zip": 61524,
+   "value": 31462.6,
+   "JobsRetained": 6
+ },
+ {
+   "Zip": 61525,
+   "value": 2036367.52,
+   "JobsRetained": 299
+ },
+ {
+   "Zip": 61526,
+   "value": 492647.57,
+   "JobsRetained": 112
+ },
+ {
+   "Zip": 61528,
+   "value": 1549477.12,
+   "JobsRetained": 227
+ },
+ {
+   "Zip": 61529,
+   "value": 731311.36,
+   "JobsRetained": 148
+ },
+ {
+   "Zip": 61530,
+   "value": 4132032.58,
+   "JobsRetained": 691
+ },
+ {
+   "Zip": 61531,
+   "value": 1047705.65,
+   "JobsRetained": 224
+ },
+ {
+   "Zip": 61532,
+   "value": 47449.21,
+   "JobsRetained": 18
+ },
+ {
+   "Zip": 61533,
+   "value": 300254.91,
+   "JobsRetained": 53
+ },
+ {
+   "Zip": 61534,
+   "value": 430059.12,
+   "JobsRetained": 74
+ },
+ {
+   "Zip": 61535,
+   "value": 350933,
+   "JobsRetained": 56
+ },
+ {
+   "Zip": 61536,
+   "value": 914457.5,
+   "JobsRetained": 136
+ },
+ {
+   "Zip": 61537,
+   "value": 810713.89,
+   "JobsRetained": 120
+ },
+ {
+   "Zip": 61539,
+   "value": 11510,
+   "JobsRetained": 3
+ },
+ {
+   "Zip": 61540,
+   "value": 929462.57,
+   "JobsRetained": 147
+ },
+ {
+   "Zip": 61542,
+   "value": 949131.71,
+   "JobsRetained": 175
+ },
+ {
+   "Zip": 61543,
+   "value": 34684.15,
+   "JobsRetained": 6
+ },
+ {
+   "Zip": 61544,
+   "value": 241104.42,
+   "JobsRetained": 47
+ },
+ {
+   "Zip": 61545,
+   "value": 198577,
+   "JobsRetained": 62
+ },
+ {
+   "Zip": 61546,
+   "value": 973621.56,
+   "JobsRetained": 124
+ },
+ {
+   "Zip": 61547,
+   "value": 497108.82,
+   "JobsRetained": 91
+ },
+ {
+   "Zip": 61548,
+   "value": 3704340.01,
+   "JobsRetained": 542
+ },
+ {
+   "Zip": 61550,
+   "value": 10239506.98,
+   "JobsRetained": 1630
+ },
+ {
+   "Zip": 61552,
+   "value": 232310,
+   "JobsRetained": 29
+ },
+ {
+   "Zip": 61553,
+   "value": 40479,
+   "JobsRetained": 14
+ },
+ {
+   "Zip": 61554,
+   "value": 10864056.19,
+   "JobsRetained": 1575
+ },
+ {
+   "Zip": 61555,
+   "value": 294100,
+   "JobsRetained": 43
+ },
+ {
+   "Zip": 61559,
+   "value": 2168859.28,
+   "JobsRetained": 277
+ },
+ {
+   "Zip": 61560,
+   "value": 101959,
+   "JobsRetained": 14
+ },
+ {
+   "Zip": 61561,
+   "value": 2020958.14,
+   "JobsRetained": 294
+ },
+ {
+   "Zip": 61562,
+   "value": 57917,
+   "JobsRetained": 4
+ },
+ {
+   "Zip": 61564,
+   "value": 61595,
+   "JobsRetained": 5
+ },
+ {
+   "Zip": 61565,
+   "value": 515370.15,
+   "JobsRetained": 79
+ },
+ {
+   "Zip": 61567,
+   "value": 57586.02,
+   "JobsRetained": 8
+ },
+ {
+   "Zip": 61568,
+   "value": 1824368.64,
+   "JobsRetained": 315
+ },
+ {
+   "Zip": 61569,
+   "value": 382031.46,
+   "JobsRetained": 36
+ },
+ {
+   "Zip": 61570,
+   "value": 1799823.37,
+   "JobsRetained": 594
+ },
+ {
+   "Zip": 61571,
+   "value": 8099525.9,
+   "JobsRetained": 1350
+ },
+ {
+   "Zip": 61572,
+   "value": 178321.9,
+   "JobsRetained": 22
+ },
+ {
+   "Zip": 61601,
+   "value": 46200,
+   "JobsRetained": 7
+ },
+ {
+   "Zip": 61602,
+   "value": 8329151.25,
+   "JobsRetained": 1059
+ },
+ {
+   "Zip": 61603,
+   "value": 3421168.33,
+   "JobsRetained": 403
+ },
+ {
+   "Zip": 61604,
+   "value": 5447828.39,
+   "JobsRetained": 911
+ },
+ {
+   "Zip": 61605,
+   "value": 1574166.1,
+   "JobsRetained": 249
+ },
+ {
+   "Zip": 61606,
+   "value": 2039797.97,
+   "JobsRetained": 338
+ },
+ {
+   "Zip": 61607,
+   "value": 3277640.78,
+   "JobsRetained": 501
+ },
+ {
+   "Zip": 61610,
+   "value": 1111520.62,
+   "JobsRetained": 140
+ },
+ {
+   "Zip": 61611,
+   "value": 9638243.27,
+   "JobsRetained": 1424
+ },
+ {
+   "Zip": 61612,
+   "value": 328300,
+   "JobsRetained": 38
+ },
+ {
+   "Zip": 61613,
+   "value": 42158,
+   "JobsRetained": 12
+ },
+ {
+   "Zip": 61614,
+   "value": 17562218,
+   "JobsRetained": 2572
+ },
+ {
+   "Zip": 61615,
+   "value": 12814075.83,
+   "JobsRetained": 2026
+ },
+ {
+   "Zip": 61616,
+   "value": 3927213.96,
+   "JobsRetained": 673
+ },
+ {
+   "Zip": 61637,
+   "value": 26100,
+   "JobsRetained": 10
+ },
+ {
+   "Zip": 61652,
+   "value": 231000,
+   "JobsRetained": 22
+ },
+ {
+   "Zip": 61701,
+   "value": 18243378.88,
+   "JobsRetained": 2532
+ },
+ {
+   "Zip": 61702,
+   "value": 828086.1,
+   "JobsRetained": 87
+ },
+ {
+   "Zip": 61704,
+   "value": 18410912.16,
+   "JobsRetained": 2922
+ },
+ {
+   "Zip": 61705,
+   "value": 4691662.03,
+   "JobsRetained": 1093
+ },
+ {
+   "Zip": 61716,
+   "value": 12700,
+   "JobsRetained": 5
+ },
+ {
+   "Zip": 61720,
+   "value": 57794.5,
+   "JobsRetained": 11
+ },
+ {
+   "Zip": 61721,
+   "value": 178683.02,
+   "JobsRetained": 33
+ },
+ {
+   "Zip": 61722,
+   "value": 175944,
+   "JobsRetained": 19
+ },
+ {
+   "Zip": 61723,
+   "value": 764316.19,
+   "JobsRetained": 110
+ },
+ {
+   "Zip": 61724,
+   "value": 168551.25,
+   "JobsRetained": 21
+ },
+ {
+   "Zip": 61725,
+   "value": 1040368.82,
+   "JobsRetained": 147
+ },
+ {
+   "Zip": 61726,
+   "value": 1075579.12,
+   "JobsRetained": 176
+ },
+ {
+   "Zip": 61727,
+   "value": 4411809.2,
+   "JobsRetained": 838
+ },
+ {
+   "Zip": 61728,
+   "value": 527262.8,
+   "JobsRetained": 72
+ },
+ {
+   "Zip": 61729,
+   "value": 969547.38,
+   "JobsRetained": 144
+ },
+ {
+   "Zip": 61730,
+   "value": 270014.91,
+   "JobsRetained": 29
+ },
+ {
+   "Zip": 61731,
+   "value": 199075.6,
+   "JobsRetained": 29
+ },
+ {
+   "Zip": 61732,
+   "value": 637710.02,
+   "JobsRetained": 117
+ },
+ {
+   "Zip": 61733,
+   "value": 556404.5,
+   "JobsRetained": 57
+ },
+ {
+   "Zip": 61734,
+   "value": 542496.39,
+   "JobsRetained": 89
+ },
+ {
+   "Zip": 61735,
+   "value": 9938.02,
+   "JobsRetained": 3
+ },
+ {
+   "Zip": 61736,
+   "value": 587856.45,
+   "JobsRetained": 82
+ },
+ {
+   "Zip": 61737,
+   "value": 174768.5,
+   "JobsRetained": 33
+ },
+ {
+   "Zip": 61738,
+   "value": 1636787.56,
+   "JobsRetained": 346
+ },
+ {
+   "Zip": 61739,
+   "value": 3581897.11,
+   "JobsRetained": 487
+ },
+ {
+   "Zip": 61740,
+   "value": 1279571.79,
+   "JobsRetained": 169
+ },
+ {
+   "Zip": 61741,
+   "value": 1888467,
+   "JobsRetained": 262
+ },
+ {
+   "Zip": 61742,
+   "value": 1406326.38,
+   "JobsRetained": 168
+ },
+ {
+   "Zip": 61743,
+   "value": 123678.5,
+   "JobsRetained": 10
+ },
+ {
+   "Zip": 61744,
+   "value": 789428.54,
+   "JobsRetained": 111
+ },
+ {
+   "Zip": 61745,
+   "value": 1209078.3,
+   "JobsRetained": 182
+ },
+ {
+   "Zip": 61747,
+   "value": 649759.98,
+   "JobsRetained": 90
+ },
+ {
+   "Zip": 61748,
+   "value": 1094040.77,
+   "JobsRetained": 109
+ },
+ {
+   "Zip": 61749,
+   "value": 68977.64,
+   "JobsRetained": 8
+ },
+ {
+   "Zip": 61750,
+   "value": 4500,
+   "JobsRetained": 1
+ },
+ {
+   "Zip": 61752,
+   "value": 1718153.66,
+   "JobsRetained": 270
+ },
+ {
+   "Zip": 61753,
+   "value": 1383315.26,
+   "JobsRetained": 224
+ },
+ {
+   "Zip": 61754,
+   "value": 976352.73,
+   "JobsRetained": 148
+ },
+ {
+   "Zip": 61755,
+   "value": 1949767.62,
+   "JobsRetained": 265
+ },
+ {
+   "Zip": 61756,
+   "value": 879564.1,
+   "JobsRetained": 165
+ },
+ {
+   "Zip": 61759,
+   "value": 999738.01,
+   "JobsRetained": 284
+ },
+ {
+   "Zip": 61760,
+   "value": 1044494,
+   "JobsRetained": 183
+ },
+ {
+   "Zip": 61761,
+   "value": 11242965.52,
+   "JobsRetained": 1821
+ },
+ {
+   "Zip": 61764,
+   "value": 6078975.21,
+   "JobsRetained": 926
+ },
+ {
+   "Zip": 61769,
+   "value": 332561,
+   "JobsRetained": 44
+ },
+ {
+   "Zip": 61770,
+   "value": 405793.85,
+   "JobsRetained": 56
+ },
+ {
+   "Zip": 61771,
+   "value": 202807.5,
+   "JobsRetained": 36
+ },
+ {
+   "Zip": 61772,
+   "value": 204012.14,
+   "JobsRetained": 75
+ },
+ {
+   "Zip": 61773,
+   "value": 337918.57,
+   "JobsRetained": 43
+ },
+ {
+   "Zip": 61774,
+   "value": 291768.92,
+   "JobsRetained": 46
+ },
+ {
+   "Zip": 61775,
+   "value": 368600.34,
+   "JobsRetained": 69
+ },
+ {
+   "Zip": 61776,
+   "value": 401009.65,
+   "JobsRetained": 63
+ },
+ {
+   "Zip": 61777,
+   "value": 584147,
+   "JobsRetained": 63
+ },
+ {
+   "Zip": 61778,
+   "value": 96634,
+   "JobsRetained": 15
+ },
+ {
+   "Zip": 61801,
+   "value": 5259154.95,
+   "JobsRetained": 949
+ },
+ {
+   "Zip": 61802,
+   "value": 6447700.82,
+   "JobsRetained": 852
+ },
+ {
+   "Zip": 61803,
+   "value": 125951.65,
+   "JobsRetained": 13
+ },
+ {
+   "Zip": 61810,
+   "value": 100426.57,
+   "JobsRetained": 13
+ },
+ {
+   "Zip": 61811,
+   "value": 128641,
+   "JobsRetained": 33
+ },
+ {
+   "Zip": 61812,
+   "value": 67222.32,
+   "JobsRetained": 9
+ },
+ {
+   "Zip": 61813,
+   "value": 518482.54,
+   "JobsRetained": 115
+ },
+ {
+   "Zip": 61814,
+   "value": 317854,
+   "JobsRetained": 32
+ },
+ {
+   "Zip": 61815,
+   "value": 26700,
+   "JobsRetained": 0
+ },
+ {
+   "Zip": 61816,
+   "value": 127276.42,
+   "JobsRetained": 19
+ },
+ {
+   "Zip": 61817,
+   "value": 650642.22,
+   "JobsRetained": 87
+ },
+ {
+   "Zip": 61818,
+   "value": 235047.51,
+   "JobsRetained": 38
+ },
+ {
+   "Zip": 61820,
+   "value": 19410821.4,
+   "JobsRetained": 2865
+ },
+ {
+   "Zip": 61821,
+   "value": 7546130.69,
+   "JobsRetained": 1179
+ },
+ {
+   "Zip": 61822,
+   "value": 11109236.12,
+   "JobsRetained": 1611
+ },
+ {
+   "Zip": 61824,
+   "value": 34847,
+   "JobsRetained": 0
+ },
+ {
+   "Zip": 61825,
+   "value": 11985,
+   "JobsRetained": 4
+ },
+ {
+   "Zip": 61826,
+   "value": 384172.47,
+   "JobsRetained": 43
+ },
+ {
+   "Zip": 61830,
+   "value": 189524.63,
+   "JobsRetained": 11
+ },
+ {
+   "Zip": 61831,
+   "value": 13400,
+   "JobsRetained": 0
+ },
+ {
+   "Zip": 61832,
+   "value": 10198137.3,
+   "JobsRetained": 1798
+ },
+ {
+   "Zip": 61833,
+   "value": 843600.45,
+   "JobsRetained": 143
+ },
+ {
+   "Zip": 61834,
+   "value": 2047736.62,
+   "JobsRetained": 321
+ },
+ {
+   "Zip": 61839,
+   "value": 237822.99,
+   "JobsRetained": 18
+ },
+ {
+   "Zip": 61840,
+   "value": 288321,
+   "JobsRetained": 43
+ },
+ {
+   "Zip": 61841,
+   "value": 453805.49,
+   "JobsRetained": 29
+ },
+ {
+   "Zip": 61842,
+   "value": 1261447,
+   "JobsRetained": 176
+ },
+ {
+   "Zip": 61843,
+   "value": 673026.7,
+   "JobsRetained": 103
+ },
+ {
+   "Zip": 61844,
+   "value": 306838.45,
+   "JobsRetained": 43
+ },
+ {
+   "Zip": 61845,
+   "value": 354437.85,
+   "JobsRetained": 46
+ },
+ {
+   "Zip": 61846,
+   "value": 725545,
+   "JobsRetained": 114
+ },
+ {
+   "Zip": 61847,
+   "value": 449674,
+   "JobsRetained": 79
+ },
+ {
+   "Zip": 61848,
+   "value": 47325,
+   "JobsRetained": 10
+ },
+ {
+   "Zip": 61849,
+   "value": 485233.92,
+   "JobsRetained": 78
+ },
+ {
+   "Zip": 61850,
+   "value": 63485.32,
+   "JobsRetained": 5
+ },
+ {
+   "Zip": 61851,
+   "value": 83693.75,
+   "JobsRetained": 13
+ },
+ {
+   "Zip": 61852,
+   "value": 62231.7,
+   "JobsRetained": 7
+ },
+ {
+   "Zip": 61853,
+   "value": 4098942.92,
+   "JobsRetained": 611
+ },
+ {
+   "Zip": 61854,
+   "value": 572887,
+   "JobsRetained": 76
+ },
+ {
+   "Zip": 61855,
+   "value": 19904.6,
+   "JobsRetained": 4
+ },
+ {
+   "Zip": 61856,
+   "value": 3664568.24,
+   "JobsRetained": 629
+ },
+ {
+   "Zip": 61858,
+   "value": 589396.87,
+   "JobsRetained": 104
+ },
+ {
+   "Zip": 61859,
+   "value": 932560.48,
+   "JobsRetained": 157
+ },
+ {
+   "Zip": 61862,
+   "value": 187125,
+   "JobsRetained": 28
+ },
+ {
+   "Zip": 61863,
+   "value": 48492,
+   "JobsRetained": 3
+ },
+ {
+   "Zip": 61864,
+   "value": 576250,
+   "JobsRetained": 100
+ },
+ {
+   "Zip": 61865,
+   "value": 394799,
+   "JobsRetained": 59
+ },
+ {
+   "Zip": 61866,
+   "value": 3023630.84,
+   "JobsRetained": 489
+ },
+ {
+   "Zip": 61870,
+   "value": 354539,
+   "JobsRetained": 43
+ },
+ {
+   "Zip": 61871,
+   "value": 27784,
+   "JobsRetained": 4
+ },
+ {
+   "Zip": 61872,
+   "value": 321815,
+   "JobsRetained": 35
+ },
+ {
+   "Zip": 61873,
+   "value": 2352414.16,
+   "JobsRetained": 347
+ },
+ {
+   "Zip": 61874,
+   "value": 3060110.8,
+   "JobsRetained": 437
+ },
+ {
+   "Zip": 61875,
+   "value": 316316.75,
+   "JobsRetained": 120
+ },
+ {
+   "Zip": 61876,
+   "value": 472073.19,
+   "JobsRetained": 69
+ },
+ {
+   "Zip": 61877,
+   "value": 406938.96,
+   "JobsRetained": 95
+ },
+ {
+   "Zip": 61878,
+   "value": 357068.7,
+   "JobsRetained": 35
+ },
+ {
+   "Zip": 61880,
+   "value": 938710.86,
+   "JobsRetained": 92
+ },
+ {
+   "Zip": 61882,
+   "value": 193881.75,
+   "JobsRetained": 22
+ },
+ {
+   "Zip": 61883,
+   "value": 634178.45,
+   "JobsRetained": 122
+ },
+ {
+   "Zip": 61884,
+   "value": 290570.22,
+   "JobsRetained": 37
+ },
+ {
+   "Zip": 61910,
+   "value": 2000361.52,
+   "JobsRetained": 437
+ },
+ {
+   "Zip": 61911,
+   "value": 1964493.43,
+   "JobsRetained": 324
+ },
+ {
+   "Zip": 61912,
+   "value": 417551.47,
+   "JobsRetained": 54
+ },
+ {
+   "Zip": 61913,
+   "value": 348942,
+   "JobsRetained": 47
+ },
+ {
+   "Zip": 61914,
+   "value": 565471.67,
+   "JobsRetained": 94
+ },
+ {
+   "Zip": 61917,
+   "value": 209131.29,
+   "JobsRetained": 29
+ },
+ {
+   "Zip": 61919,
+   "value": 429210.5,
+   "JobsRetained": 100
+ },
+ {
+   "Zip": 61920,
+   "value": 6386362.8,
+   "JobsRetained": 1185
+ },
+ {
+   "Zip": 61924,
+   "value": 1098978.05,
+   "JobsRetained": 155
+ },
+ {
+   "Zip": 61925,
+   "value": 257124.83,
+   "JobsRetained": 54
+ },
+ {
+   "Zip": 61928,
+   "value": 161591,
+   "JobsRetained": 25
+ },
+ {
+   "Zip": 61929,
+   "value": 133946.87,
+   "JobsRetained": 13
+ },
+ {
+   "Zip": 61930,
+   "value": 141730,
+   "JobsRetained": 23
+ },
+ {
+   "Zip": 61931,
+   "value": 329539,
+   "JobsRetained": 48
+ },
+ {
+   "Zip": 61932,
+   "value": 107376,
+   "JobsRetained": 13
+ },
+ {
+   "Zip": 61933,
+   "value": 456698.88,
+   "JobsRetained": 44
+ },
+ {
+   "Zip": 61936,
+   "value": 4228.12,
+   "JobsRetained": 5
+ },
+ {
+   "Zip": 61937,
+   "value": 342967.24,
+   "JobsRetained": 56
+ },
+ {
+   "Zip": 61938,
+   "value": 9949095.13,
+   "JobsRetained": 1855
+ },
+ {
+   "Zip": 61940,
+   "value": 79425,
+   "JobsRetained": 6
+ },
+ {
+   "Zip": 61942,
+   "value": 515570.47,
+   "JobsRetained": 97
+ },
+ {
+   "Zip": 61943,
+   "value": 279555.12,
+   "JobsRetained": 62
+ },
+ {
+   "Zip": 61944,
+   "value": 4274640.36,
+   "JobsRetained": 680
+ },
+ {
+   "Zip": 61949,
+   "value": 12800,
+   "JobsRetained": 3
+ },
+ {
+   "Zip": 61951,
+   "value": 2929352.91,
+   "JobsRetained": 527
+ },
+ {
+   "Zip": 61953,
+   "value": 2614683.96,
+   "JobsRetained": 457
+ },
+ {
+   "Zip": 61955,
+   "value": 21500,
+   "JobsRetained": 3
+ },
+ {
+   "Zip": 61956,
+   "value": 639864.72,
+   "JobsRetained": 99
+ },
+ {
+   "Zip": 61957,
+   "value": 472519.75,
+   "JobsRetained": 62
+ },
+ {
+   "Zip": 62001,
+   "value": 535711.13,
+   "JobsRetained": 69
+ },
+ {
+   "Zip": 62002,
+   "value": 11831213.62,
+   "JobsRetained": 1972
+ },
+ {
+   "Zip": 62006,
+   "value": 82745,
+   "JobsRetained": 16
+ },
+ {
+   "Zip": 62009,
+   "value": 128325,
+   "JobsRetained": 34
+ },
+ {
+   "Zip": 62010,
+   "value": 3206389.37,
+   "JobsRetained": 301
+ },
+ {
+   "Zip": 62011,
+   "value": 125869.09,
+   "JobsRetained": 19
+ },
+ {
+   "Zip": 62012,
+   "value": 1912106.15,
+   "JobsRetained": 266
+ },
+ {
+   "Zip": 62013,
+   "value": 197097.69,
+   "JobsRetained": 42
+ },
+ {
+   "Zip": 62014,
+   "value": 1324782.7,
+   "JobsRetained": 258
+ },
+ {
+   "Zip": 62015,
+   "value": 403079.19,
+   "JobsRetained": 42
+ },
+ {
+   "Zip": 62016,
+   "value": 2357622.71,
+   "JobsRetained": 472
+ },
+ {
+   "Zip": 62017,
+   "value": 171252.76,
+   "JobsRetained": 44
+ },
+ {
+   "Zip": 62018,
+   "value": 611661.32,
+   "JobsRetained": 80
+ },
+ {
+   "Zip": 62019,
+   "value": 62995.42,
+   "JobsRetained": 17
+ },
+ {
+   "Zip": 62021,
+   "value": 353524.2,
+   "JobsRetained": 18
+ },
+ {
+   "Zip": 62022,
+   "value": 175227.84,
+   "JobsRetained": 29
+ },
+ {
+   "Zip": 62024,
+   "value": 2283458.66,
+   "JobsRetained": 421
+ },
+ {
+   "Zip": 62025,
+   "value": 18751897.89,
+   "JobsRetained": 2449
+ },
+ {
+   "Zip": 62027,
+   "value": 189856.06,
+   "JobsRetained": 32
+ },
+ {
+   "Zip": 62028,
+   "value": 101198.5,
+   "JobsRetained": 16
+ },
+ {
+   "Zip": 62031,
+   "value": 217280.2,
+   "JobsRetained": 22
+ },
+ {
+   "Zip": 62032,
+   "value": 392695.41,
+   "JobsRetained": 49
+ },
+ {
+   "Zip": 62033,
+   "value": 1057914.41,
+   "JobsRetained": 167
+ },
+ {
+   "Zip": 62034,
+   "value": 6162221.81,
+   "JobsRetained": 861
+ },
+ {
+   "Zip": 62035,
+   "value": 5647083.43,
+   "JobsRetained": 965
+ },
+ {
+   "Zip": 62036,
+   "value": 139385,
+   "JobsRetained": 24
+ },
+ {
+   "Zip": 62037,
+   "value": 1205441.91,
+   "JobsRetained": 324
+ },
+ {
+   "Zip": 62040,
+   "value": 8540171.01,
+   "JobsRetained": 1307
+ },
+ {
+   "Zip": 62044,
+   "value": 903334.2,
+   "JobsRetained": 131
+ },
+ {
+   "Zip": 62045,
+   "value": 54032,
+   "JobsRetained": 7
+ },
+ {
+   "Zip": 62046,
+   "value": 784628.96,
+   "JobsRetained": 96
+ },
+ {
+   "Zip": 62047,
+   "value": 661472.14,
+   "JobsRetained": 116
+ },
+ {
+   "Zip": 62048,
+   "value": 335133.95,
+   "JobsRetained": 36
+ },
+ {
+   "Zip": 62049,
+   "value": 3293006,
+   "JobsRetained": 617
+ },
+ {
+   "Zip": 62050,
+   "value": 54343.3,
+   "JobsRetained": 18
+ },
+ {
+   "Zip": 62051,
+   "value": 197688.95,
+   "JobsRetained": 22
+ },
+ {
+   "Zip": 62052,
+   "value": 5456766.65,
+   "JobsRetained": 805
+ },
+ {
+   "Zip": 62053,
+   "value": 103695.5,
+   "JobsRetained": 19
+ },
+ {
+   "Zip": 62054,
+   "value": 192616.3,
+   "JobsRetained": 19
+ },
+ {
+   "Zip": 62056,
+   "value": 5935585.57,
+   "JobsRetained": 913
+ },
+ {
+   "Zip": 62058,
+   "value": 47232,
+   "JobsRetained": 5
+ },
+ {
+   "Zip": 62059,
+   "value": 8042,
+   "JobsRetained": 8
+ },
+ {
+   "Zip": 62060,
+   "value": 817584.68,
+   "JobsRetained": 143
+ },
+ {
+   "Zip": 62061,
+   "value": 721690.58,
+   "JobsRetained": 111
+ },
+ {
+   "Zip": 62062,
+   "value": 5078127.59,
+   "JobsRetained": 853
+ },
+ {
+   "Zip": 62063,
+   "value": 423752.54,
+   "JobsRetained": 66
+ },
+ {
+   "Zip": 62065,
+   "value": 99305,
+   "JobsRetained": 7
+ },
+ {
+   "Zip": 62067,
+   "value": 755958.75,
+   "JobsRetained": 108
+ },
+ {
+   "Zip": 62069,
+   "value": 879436.97,
+   "JobsRetained": 55
+ },
+ {
+   "Zip": 62070,
+   "value": 20000,
+   "JobsRetained": 2
+ },
+ {
+   "Zip": 62074,
+   "value": 244319.7,
+   "JobsRetained": 24
+ },
+ {
+   "Zip": 62075,
+   "value": 1521432.29,
+   "JobsRetained": 249
+ },
+ {
+   "Zip": 62076,
+   "value": 52833.3,
+   "JobsRetained": 5
+ },
+ {
+   "Zip": 62079,
+   "value": 81444.5,
+   "JobsRetained": 13
+ },
+ {
+   "Zip": 62080,
+   "value": 262262.53,
+   "JobsRetained": 49
+ },
+ {
+   "Zip": 62081,
+   "value": 115540.1,
+   "JobsRetained": 18
+ },
+ {
+   "Zip": 62082,
+   "value": 497062.52,
+   "JobsRetained": 73
+ },
+ {
+   "Zip": 62083,
+   "value": 243896,
+   "JobsRetained": 45
+ },
+ {
+   "Zip": 62084,
+   "value": 413805,
+   "JobsRetained": 37
+ },
+ {
+   "Zip": 62085,
+   "value": 10992.5,
+   "JobsRetained": 2
+ },
+ {
+   "Zip": 62086,
+   "value": 133458.86,
+   "JobsRetained": 19
+ },
+ {
+   "Zip": 62087,
+   "value": 432759,
+   "JobsRetained": 67
+ },
+ {
+   "Zip": 62088,
+   "value": 2104250.96,
+   "JobsRetained": 197
+ },
+ {
+   "Zip": 62089,
+   "value": 55334.69,
+   "JobsRetained": 5
+ },
+ {
+   "Zip": 62090,
+   "value": 188375,
+   "JobsRetained": 28
+ },
+ {
+   "Zip": 62091,
+   "value": 75027,
+   "JobsRetained": 10
+ },
+ {
+   "Zip": 62092,
+   "value": 423607.75,
+   "JobsRetained": 80
+ },
+ {
+   "Zip": 62093,
+   "value": 97457,
+   "JobsRetained": 11
+ },
+ {
+   "Zip": 62094,
+   "value": 132888.04,
+   "JobsRetained": 18
+ },
+ {
+   "Zip": 62095,
+   "value": 3524644.7,
+   "JobsRetained": 508
+ },
+ {
+   "Zip": 62097,
+   "value": 506174.19,
+   "JobsRetained": 26
+ },
+ {
+   "Zip": 62201,
+   "value": 1798449.5,
+   "JobsRetained": 238
+ },
+ {
+   "Zip": 62202,
+   "value": 55594,
+   "JobsRetained": 0
+ },
+ {
+   "Zip": 62203,
+   "value": 884107.17,
+   "JobsRetained": 149
+ },
+ {
+   "Zip": 62204,
+   "value": 242314.95,
+   "JobsRetained": 36
+ },
+ {
+   "Zip": 62205,
+   "value": 1241173.08,
+   "JobsRetained": 177
+ },
+ {
+   "Zip": 62206,
+   "value": 2413016.04,
+   "JobsRetained": 382
+ },
+ {
+   "Zip": 62207,
+   "value": 803987.91,
+   "JobsRetained": 181
+ },
+ {
+   "Zip": 62208,
+   "value": 7210392.8,
+   "JobsRetained": 1001
+ },
+ {
+   "Zip": 62214,
+   "value": 839632.46,
+   "JobsRetained": 117
+ },
+ {
+   "Zip": 62215,
+   "value": 1121019.44,
+   "JobsRetained": 196
+ },
+ {
+   "Zip": 62216,
+   "value": 1545253.4,
+   "JobsRetained": 322
+ },
+ {
+   "Zip": 62217,
+   "value": 103255.35,
+   "JobsRetained": 17
+ },
+ {
+   "Zip": 62218,
+   "value": 886893.21,
+   "JobsRetained": 171
+ },
+ {
+   "Zip": 62219,
+   "value": 172340,
+   "JobsRetained": 25
+ },
+ {
+   "Zip": 62220,
+   "value": 10260343.25,
+   "JobsRetained": 1215
+ },
+ {
+   "Zip": 62221,
+   "value": 5130969.96,
+   "JobsRetained": 872
+ },
+ {
+   "Zip": 62222,
+   "value": 82600,
+   "JobsRetained": 5
+ },
+ {
+   "Zip": 62223,
+   "value": 5835763.2,
+   "JobsRetained": 704
+ },
+ {
+   "Zip": 62225,
+   "value": 241015.11,
+   "JobsRetained": 34
+ },
+ {
+   "Zip": 62226,
+   "value": 12755933.89,
+   "JobsRetained": 1746
+ },
+ {
+   "Zip": 62230,
+   "value": 5455568.08,
+   "JobsRetained": 793
+ },
+ {
+   "Zip": 62231,
+   "value": 4410753.45,
+   "JobsRetained": 721
+ },
+ {
+   "Zip": 62232,
+   "value": 1658115.4,
+   "JobsRetained": 290
+ },
+ {
+   "Zip": 62233,
+   "value": 2454171.28,
+   "JobsRetained": 429
+ },
+ {
+   "Zip": 62234,
+   "value": 11143920.06,
+   "JobsRetained": 1540
+ },
+ {
+   "Zip": 62236,
+   "value": 9029018.07,
+   "JobsRetained": 1252
+ },
+ {
+   "Zip": 62237,
+   "value": 646775.31,
+   "JobsRetained": 214
+ },
+ {
+   "Zip": 62238,
+   "value": 132633.32,
+   "JobsRetained": 12
+ },
+ {
+   "Zip": 62239,
+   "value": 1223998.01,
+   "JobsRetained": 169
+ },
+ {
+   "Zip": 62240,
+   "value": 475308.6,
+   "JobsRetained": 77
+ },
+ {
+   "Zip": 62241,
+   "value": 32597.5,
+   "JobsRetained": 7
+ },
+ {
+   "Zip": 62242,
+   "value": 267511.17,
+   "JobsRetained": 27
+ },
+ {
+   "Zip": 62243,
+   "value": 2644589.16,
+   "JobsRetained": 394
+ },
+ {
+   "Zip": 62244,
+   "value": 337574.55,
+   "JobsRetained": 148
+ },
+ {
+   "Zip": 62245,
+   "value": 857495.66,
+   "JobsRetained": 119
+ },
+ {
+   "Zip": 62246,
+   "value": 3475574.97,
+   "JobsRetained": 671
+ },
+ {
+   "Zip": 62248,
+   "value": 181781,
+   "JobsRetained": 44
+ },
+ {
+   "Zip": 62249,
+   "value": 8204789.91,
+   "JobsRetained": 1306
+ },
+ {
+   "Zip": 62250,
+   "value": 229042,
+   "JobsRetained": 42
+ },
+ {
+   "Zip": 62253,
+   "value": 87585,
+   "JobsRetained": 27
+ },
+ {
+   "Zip": 62254,
+   "value": 2651655.37,
+   "JobsRetained": 420
+ },
+ {
+   "Zip": 62255,
+   "value": 396297.64,
+   "JobsRetained": 40
+ },
+ {
+   "Zip": 62256,
+   "value": 22200,
+   "JobsRetained": 10
+ },
+ {
+   "Zip": 62257,
+   "value": 1069202.05,
+   "JobsRetained": 130
+ },
+ {
+   "Zip": 62258,
+   "value": 3900638.65,
+   "JobsRetained": 556
+ },
+ {
+   "Zip": 62260,
+   "value": 3588062.15,
+   "JobsRetained": 530
+ },
+ {
+   "Zip": 62261,
+   "value": 2212.5,
+   "JobsRetained": 10
+ },
+ {
+   "Zip": 62262,
+   "value": 355290.62,
+   "JobsRetained": 59
+ },
+ {
+   "Zip": 62263,
+   "value": 4457399.46,
+   "JobsRetained": 726
+ },
+ {
+   "Zip": 62264,
+   "value": 617560.42,
+   "JobsRetained": 126
+ },
+ {
+   "Zip": 62265,
+   "value": 1410045.1,
+   "JobsRetained": 307
+ },
+ {
+   "Zip": 62266,
+   "value": 111641.07,
+   "JobsRetained": 19
+ },
+ {
+   "Zip": 62268,
+   "value": 327171.7,
+   "JobsRetained": 56
+ },
+ {
+   "Zip": 62269,
+   "value": 14862639.32,
+   "JobsRetained": 2299
+ },
+ {
+   "Zip": 62271,
+   "value": 1495410.88,
+   "JobsRetained": 216
+ },
+ {
+   "Zip": 62272,
+   "value": 348926.34,
+   "JobsRetained": 51
+ },
+ {
+   "Zip": 62273,
+   "value": 56927.2,
+   "JobsRetained": 5
+ },
+ {
+   "Zip": 62274,
+   "value": 2256820.71,
+   "JobsRetained": 403
+ },
+ {
+   "Zip": 62275,
+   "value": 1188036.81,
+   "JobsRetained": 224
+ },
+ {
+   "Zip": 62277,
+   "value": 303390.54,
+   "JobsRetained": 74
+ },
+ {
+   "Zip": 62278,
+   "value": 3759586.9,
+   "JobsRetained": 735
+ },
+ {
+   "Zip": 62280,
+   "value": 113869.62,
+   "JobsRetained": 13
+ },
+ {
+   "Zip": 62281,
+   "value": 943909.77,
+   "JobsRetained": 123
+ },
+ {
+   "Zip": 62282,
+   "value": 178194,
+   "JobsRetained": 37
+ },
+ {
+   "Zip": 62284,
+   "value": 279889.56,
+   "JobsRetained": 51
+ },
+ {
+   "Zip": 62285,
+   "value": 1251920.1,
+   "JobsRetained": 232
+ },
+ {
+   "Zip": 62286,
+   "value": 2597367.64,
+   "JobsRetained": 428
+ },
+ {
+   "Zip": 62288,
+   "value": 1247591.98,
+   "JobsRetained": 232
+ },
+ {
+   "Zip": 62289,
+   "value": 19760,
+   "JobsRetained": 2
+ },
+ {
+   "Zip": 62292,
+   "value": 138232,
+   "JobsRetained": 23
+ },
+ {
+   "Zip": 62293,
+   "value": 1958328.47,
+   "JobsRetained": 389
+ },
+ {
+   "Zip": 62294,
+   "value": 5210463.39,
+   "JobsRetained": 671
+ },
+ {
+   "Zip": 62295,
+   "value": 429369.85,
+   "JobsRetained": 74
+ },
+ {
+   "Zip": 62297,
+   "value": 73297,
+   "JobsRetained": 9
+ },
+ {
+   "Zip": 62298,
+   "value": 7555558.65,
+   "JobsRetained": 1480
+ },
+ {
+   "Zip": 62301,
+   "value": 16760724.48,
+   "JobsRetained": 3030
+ },
+ {
+   "Zip": 62305,
+   "value": 8791527.07,
+   "JobsRetained": 1271
+ },
+ {
+   "Zip": 62306,
+   "value": 315882.62,
+   "JobsRetained": 36
+ },
+ {
+   "Zip": 62311,
+   "value": 675738.04,
+   "JobsRetained": 99
+ },
+ {
+   "Zip": 62312,
+   "value": 1155739.33,
+   "JobsRetained": 183
+ },
+ {
+   "Zip": 62313,
+   "value": 119152.62,
+   "JobsRetained": 20
+ },
+ {
+   "Zip": 62314,
+   "value": 172283.87,
+   "JobsRetained": 37
+ },
+ {
+   "Zip": 62316,
+   "value": 388753.75,
+   "JobsRetained": 54
+ },
+ {
+   "Zip": 62320,
+   "value": 1124319.83,
+   "JobsRetained": 179
+ },
+ {
+   "Zip": 62321,
+   "value": 3471631.52,
+   "JobsRetained": 559
+ },
+ {
+   "Zip": 62323,
+   "value": 28989.5,
+   "JobsRetained": 4
+ },
+ {
+   "Zip": 62324,
+   "value": 463873.26,
+   "JobsRetained": 57
+ },
+ {
+   "Zip": 62325,
+   "value": 170685.3,
+   "JobsRetained": 24
+ },
+ {
+   "Zip": 62326,
+   "value": 419337.99,
+   "JobsRetained": 56
+ },
+ {
+   "Zip": 62330,
+   "value": 675036.37,
+   "JobsRetained": 106
+ },
+ {
+   "Zip": 62334,
+   "value": 95360,
+   "JobsRetained": 14
+ },
+ {
+   "Zip": 62338,
+   "value": 477331.86,
+   "JobsRetained": 81
+ },
+ {
+   "Zip": 62339,
+   "value": 326303.58,
+   "JobsRetained": 57
+ },
+ {
+   "Zip": 62340,
+   "value": 712921.48,
+   "JobsRetained": 121
+ },
+ {
+   "Zip": 62341,
+   "value": 1263175.79,
+   "JobsRetained": 206
+ },
+ {
+   "Zip": 62343,
+   "value": 373515.66,
+   "JobsRetained": 33
+ },
+ {
+   "Zip": 62344,
+   "value": 118298.52,
+   "JobsRetained": 13
+ },
+ {
+   "Zip": 62345,
+   "value": 196210.07,
+   "JobsRetained": 23
+ },
+ {
+   "Zip": 62346,
+   "value": 201597.46,
+   "JobsRetained": 27
+ },
+ {
+   "Zip": 62347,
+   "value": 790391.74,
+   "JobsRetained": 110
+ },
+ {
+   "Zip": 62348,
+   "value": 1480,
+   "JobsRetained": 1
+ },
+ {
+   "Zip": 62349,
+   "value": 153130.47,
+   "JobsRetained": 17
+ },
+ {
+   "Zip": 62351,
+   "value": 545957.3,
+   "JobsRetained": 93
+ },
+ {
+   "Zip": 62352,
+   "value": 53230.5,
+   "JobsRetained": 7
+ },
+ {
+   "Zip": 62353,
+   "value": 2081925.45,
+   "JobsRetained": 337
+ },
+ {
+   "Zip": 62354,
+   "value": 740814.69,
+   "JobsRetained": 169
+ },
+ {
+   "Zip": 62355,
+   "value": 221369.87,
+   "JobsRetained": 33
+ },
+ {
+   "Zip": 62356,
+   "value": 302925.26,
+   "JobsRetained": 39
+ },
+ {
+   "Zip": 62357,
+   "value": 102717.11,
+   "JobsRetained": 15
+ },
+ {
+   "Zip": 62358,
+   "value": 300117.02,
+   "JobsRetained": 40
+ },
+ {
+   "Zip": 62359,
+   "value": 30638.54,
+   "JobsRetained": 13
+ },
+ {
+   "Zip": 62360,
+   "value": 739962.93,
+   "JobsRetained": 106
+ },
+ {
+   "Zip": 62361,
+   "value": 382969.11,
+   "JobsRetained": 50
+ },
+ {
+   "Zip": 62362,
+   "value": 88173.45,
+   "JobsRetained": 12
+ },
+ {
+   "Zip": 62363,
+   "value": 3926814.17,
+   "JobsRetained": 667
+ },
+ {
+   "Zip": 62365,
+   "value": 249918.64,
+   "JobsRetained": 26
+ },
+ {
+   "Zip": 62366,
+   "value": 521995.56,
+   "JobsRetained": 84
+ },
+ {
+   "Zip": 62367,
+   "value": 345029.72,
+   "JobsRetained": 58
+ },
+ {
+   "Zip": 62370,
+   "value": 191106.07,
+   "JobsRetained": 37
+ },
+ {
+   "Zip": 62373,
+   "value": 166228.5,
+   "JobsRetained": 22
+ },
+ {
+   "Zip": 62374,
+   "value": 49073.12,
+   "JobsRetained": 9
+ },
+ {
+   "Zip": 62375,
+   "value": 49505.9,
+   "JobsRetained": 8
+ },
+ {
+   "Zip": 62376,
+   "value": 440378.5,
+   "JobsRetained": 76
+ },
+ {
+   "Zip": 62378,
+   "value": 196284.16,
+   "JobsRetained": 22
+ },
+ {
+   "Zip": 62379,
+   "value": 363176.07,
+   "JobsRetained": 95
+ },
+ {
+   "Zip": 62380,
+   "value": 224010.7,
+   "JobsRetained": 24
+ },
+ {
+   "Zip": 62401,
+   "value": 17855745.32,
+   "JobsRetained": 3315
+ },
+ {
+   "Zip": 62410,
+   "value": 403129,
+   "JobsRetained": 66
+ },
+ {
+   "Zip": 62411,
+   "value": 2464063.48,
+   "JobsRetained": 503
+ },
+ {
+   "Zip": 62413,
+   "value": 86088.76,
+   "JobsRetained": 12
+ },
+ {
+   "Zip": 62414,
+   "value": 450559,
+   "JobsRetained": 93
+ },
+ {
+   "Zip": 62417,
+   "value": 721067.72,
+   "JobsRetained": 133
+ },
+ {
+   "Zip": 62418,
+   "value": 897273.18,
+   "JobsRetained": 141
+ },
+ {
+   "Zip": 62419,
+   "value": 43703,
+   "JobsRetained": 8
+ },
+ {
+   "Zip": 62420,
+   "value": 1914192.57,
+   "JobsRetained": 297
+ },
+ {
+   "Zip": 62421,
+   "value": 143581,
+   "JobsRetained": 45
+ },
+ {
+   "Zip": 62422,
+   "value": 235464,
+   "JobsRetained": 66
+ },
+ {
+   "Zip": 62423,
+   "value": 28300,
+   "JobsRetained": 5
+ },
+ {
+   "Zip": 62424,
+   "value": 1806739.62,
+   "JobsRetained": 275
+ },
+ {
+   "Zip": 62425,
+   "value": 269235,
+   "JobsRetained": 34
+ },
+ {
+   "Zip": 62426,
+   "value": 65174,
+   "JobsRetained": 6
+ },
+ {
+   "Zip": 62427,
+   "value": 280231.54,
+   "JobsRetained": 44
+ },
+ {
+   "Zip": 62428,
+   "value": 679061.2,
+   "JobsRetained": 130
+ },
+ {
+   "Zip": 62431,
+   "value": 239632.27,
+   "JobsRetained": 52
+ },
+ {
+   "Zip": 62432,
+   "value": 181247.32,
+   "JobsRetained": 21
+ },
+ {
+   "Zip": 62433,
+   "value": 364062.34,
+   "JobsRetained": 76
+ },
+ {
+   "Zip": 62434,
+   "value": 148303,
+   "JobsRetained": 23
+ },
+ {
+   "Zip": 62436,
+   "value": 81389.29,
+   "JobsRetained": 15
+ },
+ {
+   "Zip": 62438,
+   "value": 96400,
+   "JobsRetained": 12
+ },
+ {
+   "Zip": 62439,
+   "value": 2771650.42,
+   "JobsRetained": 525
+ },
+ {
+   "Zip": 62440,
+   "value": 211604.57,
+   "JobsRetained": 28
+ },
+ {
+   "Zip": 62441,
+   "value": 2634285.88,
+   "JobsRetained": 470
+ },
+ {
+   "Zip": 62442,
+   "value": 637643.24,
+   "JobsRetained": 95
+ },
+ {
+   "Zip": 62443,
+   "value": 331396.99,
+   "JobsRetained": 62
+ },
+ {
+   "Zip": 62444,
+   "value": 348203,
+   "JobsRetained": 49
+ },
+ {
+   "Zip": 62445,
+   "value": 728958.24,
+   "JobsRetained": 90
+ },
+ {
+   "Zip": 62446,
+   "value": 411174.3,
+   "JobsRetained": 47
+ },
+ {
+   "Zip": 62447,
+   "value": 799775.69,
+   "JobsRetained": 221
+ },
+ {
+   "Zip": 62448,
+   "value": 2412686.24,
+   "JobsRetained": 426
+ },
+ {
+   "Zip": 62449,
+   "value": 1185222.13,
+   "JobsRetained": 209
+ },
+ {
+   "Zip": 62450,
+   "value": 6864091.86,
+   "JobsRetained": 1201
+ },
+ {
+   "Zip": 62451,
+   "value": 554188.42,
+   "JobsRetained": 130
+ },
+ {
+   "Zip": 62452,
+   "value": 185963,
+   "JobsRetained": 62
+ },
+ {
+   "Zip": 62454,
+   "value": 4739751.13,
+   "JobsRetained": 887
+ },
+ {
+   "Zip": 62458,
+   "value": 1240634.76,
+   "JobsRetained": 196
+ },
+ {
+   "Zip": 62459,
+   "value": 394928,
+   "JobsRetained": 64
+ },
+ {
+   "Zip": 62460,
+   "value": 467693.32,
+   "JobsRetained": 84
+ },
+ {
+   "Zip": 62461,
+   "value": 427807,
+   "JobsRetained": 63
+ },
+ {
+   "Zip": 62462,
+   "value": 1309257.22,
+   "JobsRetained": 251
+ },
+ {
+   "Zip": 62463,
+   "value": 767197.01,
+   "JobsRetained": 124
+ },
+ {
+   "Zip": 62465,
+   "value": 239723.67,
+   "JobsRetained": 41
+ },
+ {
+   "Zip": 62466,
+   "value": 902199.35,
+   "JobsRetained": 205
+ },
+ {
+   "Zip": 62467,
+   "value": 3660543.43,
+   "JobsRetained": 650
+ },
+ {
+   "Zip": 62468,
+   "value": 585982.9,
+   "JobsRetained": 93
+ },
+ {
+   "Zip": 62469,
+   "value": 42442.25,
+   "JobsRetained": 5
+ },
+ {
+   "Zip": 62471,
+   "value": 5057346.22,
+   "JobsRetained": 987
+ },
+ {
+   "Zip": 62473,
+   "value": 289619.32,
+   "JobsRetained": 53
+ },
+ {
+   "Zip": 62474,
+   "value": 113027,
+   "JobsRetained": 16
+ },
+ {
+   "Zip": 62475,
+   "value": 347006.54,
+   "JobsRetained": 48
+ },
+ {
+   "Zip": 62476,
+   "value": 465535,
+   "JobsRetained": 80
+ },
+ {
+   "Zip": 62477,
+   "value": 167993.7,
+   "JobsRetained": 29
+ },
+ {
+   "Zip": 62478,
+   "value": 39284.37,
+   "JobsRetained": 5
+ },
+ {
+   "Zip": 62479,
+   "value": 622041.11,
+   "JobsRetained": 110
+ },
+ {
+   "Zip": 62480,
+   "value": 222742.1,
+   "JobsRetained": 20
+ },
+ {
+   "Zip": 62481,
+   "value": 128567.02,
+   "JobsRetained": 14
+ },
+ {
+   "Zip": 62501,
+   "value": 589586.77,
+   "JobsRetained": 59
+ },
+ {
+   "Zip": 62510,
+   "value": 1026339.56,
+   "JobsRetained": 124
+ },
+ {
+   "Zip": 62512,
+   "value": 192674,
+   "JobsRetained": 31
+ },
+ {
+   "Zip": 62513,
+   "value": 813083.38,
+   "JobsRetained": 106
+ },
+ {
+   "Zip": 62514,
+   "value": 63000,
+   "JobsRetained": 9
+ },
+ {
+   "Zip": 62515,
+   "value": 437640,
+   "JobsRetained": 65
+ },
+ {
+   "Zip": 62517,
+   "value": 21497,
+   "JobsRetained": 3
+ },
+ {
+   "Zip": 62518,
+   "value": 129122.77,
+   "JobsRetained": 9
+ },
+ {
+   "Zip": 62520,
+   "value": 357393.07,
+   "JobsRetained": 44
+ },
+ {
+   "Zip": 62521,
+   "value": 9313430.49,
+   "JobsRetained": 1449
+ },
+ {
+   "Zip": 62522,
+   "value": 2822146.55,
+   "JobsRetained": 633
+ },
+ {
+   "Zip": 62523,
+   "value": 4368074.24,
+   "JobsRetained": 641
+ },
+ {
+   "Zip": 62524,
+   "value": 66200,
+   "JobsRetained": 7
+ },
+ {
+   "Zip": 62525,
+   "value": 197360,
+   "JobsRetained": 67
+ },
+ {
+   "Zip": 62526,
+   "value": 10896478.2,
+   "JobsRetained": 1495
+ },
+ {
+   "Zip": 62530,
+   "value": 1203098.37,
+   "JobsRetained": 165
+ },
+ {
+   "Zip": 62531,
+   "value": 533871.5,
+   "JobsRetained": 53
+ },
+ {
+   "Zip": 62532,
+   "value": 64005,
+   "JobsRetained": 12
+ },
+ {
+   "Zip": 62533,
+   "value": 870606.84,
+   "JobsRetained": 112
+ },
+ {
+   "Zip": 62534,
+   "value": 256284.75,
+   "JobsRetained": 50
+ },
+ {
+   "Zip": 62535,
+   "value": 2161761.8,
+   "JobsRetained": 310
+ },
+ {
+   "Zip": 62536,
+   "value": 288548.95,
+   "JobsRetained": 29
+ },
+ {
+   "Zip": 62538,
+   "value": 263234,
+   "JobsRetained": 30
+ },
+ {
+   "Zip": 62539,
+   "value": 206598.95,
+   "JobsRetained": 55
+ },
+ {
+   "Zip": 62540,
+   "value": 82622,
+   "JobsRetained": 6
+ },
+ {
+   "Zip": 62541,
+   "value": 173307.5,
+   "JobsRetained": 20
+ },
+ {
+   "Zip": 62543,
+   "value": 55887.1,
+   "JobsRetained": 11
+ },
+ {
+   "Zip": 62544,
+   "value": 761654.72,
+   "JobsRetained": 115
+ },
+ {
+   "Zip": 62545,
+   "value": 343575,
+   "JobsRetained": 89
+ },
+ {
+   "Zip": 62546,
+   "value": 880931.54,
+   "JobsRetained": 152
+ },
+ {
+   "Zip": 62547,
+   "value": 99968,
+   "JobsRetained": 18
+ },
+ {
+   "Zip": 62548,
+   "value": 1008118,
+   "JobsRetained": 179
+ },
+ {
+   "Zip": 62549,
+   "value": 1922485.82,
+   "JobsRetained": 310
+ },
+ {
+   "Zip": 62550,
+   "value": 1448568.78,
+   "JobsRetained": 243
+ },
+ {
+   "Zip": 62551,
+   "value": 42058,
+   "JobsRetained": 10
+ },
+ {
+   "Zip": 62553,
+   "value": 225060.75,
+   "JobsRetained": 27
+ },
+ {
+   "Zip": 62554,
+   "value": 119527.07,
+   "JobsRetained": 9
+ },
+ {
+   "Zip": 62555,
+   "value": 186798,
+   "JobsRetained": 16
+ },
+ {
+   "Zip": 62556,
+   "value": 78953.67,
+   "JobsRetained": 8
+ },
+ {
+   "Zip": 62557,
+   "value": 3193033.8,
+   "JobsRetained": 490
+ },
+ {
+   "Zip": 62558,
+   "value": 1661692.74,
+   "JobsRetained": 224
+ },
+ {
+   "Zip": 62560,
+   "value": 1371285.62,
+   "JobsRetained": 214
+ },
+ {
+   "Zip": 62561,
+   "value": 1795778.14,
+   "JobsRetained": 344
+ },
+ {
+   "Zip": 62563,
+   "value": 2278857.86,
+   "JobsRetained": 688
+ },
+ {
+   "Zip": 62565,
+   "value": 3129482.12,
+   "JobsRetained": 466
+ },
+ {
+   "Zip": 62567,
+   "value": 684870.52,
+   "JobsRetained": 81
+ },
+ {
+   "Zip": 62568,
+   "value": 6388487.08,
+   "JobsRetained": 965
+ },
+ {
+   "Zip": 62570,
+   "value": 28500,
+   "JobsRetained": 7
+ },
+ {
+   "Zip": 62571,
+   "value": 340835.26,
+   "JobsRetained": 46
+ },
+ {
+   "Zip": 62572,
+   "value": 113442.32,
+   "JobsRetained": 32
+ },
+ {
+   "Zip": 62573,
+   "value": 406646.84,
+   "JobsRetained": 71
+ },
+ {
+   "Zip": 62601,
+   "value": 204411.62,
+   "JobsRetained": 27
+ },
+ {
+   "Zip": 62610,
+   "value": 6000,
+   "JobsRetained": 5
+ },
+ {
+   "Zip": 62611,
+   "value": 405324.9,
+   "JobsRetained": 105
+ },
+ {
+   "Zip": 62612,
+   "value": 986338.14,
+   "JobsRetained": 278
+ },
+ {
+   "Zip": 62613,
+   "value": 1391504.48,
+   "JobsRetained": 203
+ },
+ {
+   "Zip": 62615,
+   "value": 2137451.24,
+   "JobsRetained": 398
+ },
+ {
+   "Zip": 62617,
+   "value": 64089.6,
+   "JobsRetained": 7
+ },
+ {
+   "Zip": 62618,
+   "value": 2176385.09,
+   "JobsRetained": 332
+ },
+ {
+   "Zip": 62621,
+   "value": 262970.9,
+   "JobsRetained": 55
+ },
+ {
+   "Zip": 62624,
+   "value": 153191.27,
+   "JobsRetained": 24
+ },
+ {
+   "Zip": 62625,
+   "value": 141369.39,
+   "JobsRetained": 27
+ },
+ {
+   "Zip": 62626,
+   "value": 4945704.55,
+   "JobsRetained": 844
+ },
+ {
+   "Zip": 62627,
+   "value": 508090.5,
+   "JobsRetained": 79
+ },
+ {
+   "Zip": 62628,
+   "value": 523922.4,
+   "JobsRetained": 62
+ },
+ {
+   "Zip": 62629,
+   "value": 3413613.31,
+   "JobsRetained": 778
+ },
+ {
+   "Zip": 62630,
+   "value": 247368.9,
+   "JobsRetained": 35
+ },
+ {
+   "Zip": 62631,
+   "value": 97113,
+   "JobsRetained": 18
+ },
+ {
+   "Zip": 62633,
+   "value": 240868.8,
+   "JobsRetained": 24
+ },
+ {
+   "Zip": 62634,
+   "value": 485658,
+   "JobsRetained": 59
+ },
+ {
+   "Zip": 62635,
+   "value": 451014.44,
+   "JobsRetained": 82
+ },
+ {
+   "Zip": 62638,
+   "value": 419041.25,
+   "JobsRetained": 47
+ },
+ {
+   "Zip": 62639,
+   "value": 21596.15,
+   "JobsRetained": 2
+ },
+ {
+   "Zip": 62640,
+   "value": 1170579.84,
+   "JobsRetained": 175
+ },
+ {
+   "Zip": 62642,
+   "value": 293122.08,
+   "JobsRetained": 54
+ },
+ {
+   "Zip": 62643,
+   "value": 347043,
+   "JobsRetained": 37
+ },
+ {
+   "Zip": 62644,
+   "value": 1899535.08,
+   "JobsRetained": 219
+ },
+ {
+   "Zip": 62649,
+   "value": 368267.5,
+   "JobsRetained": 37
+ },
+ {
+   "Zip": 62650,
+   "value": 10735291.57,
+   "JobsRetained": 2200
+ },
+ {
+   "Zip": 62651,
+   "value": 52126.85,
+   "JobsRetained": 9
+ },
+ {
+   "Zip": 62655,
+   "value": 125658.26,
+   "JobsRetained": 27
+ },
+ {
+   "Zip": 62656,
+   "value": 5474047.81,
+   "JobsRetained": 1054
+ },
+ {
+   "Zip": 62661,
+   "value": 318217.77,
+   "JobsRetained": 50
+ },
+ {
+   "Zip": 62664,
+   "value": 843034.86,
+   "JobsRetained": 143
+ },
+ {
+   "Zip": 62665,
+   "value": 186060.27,
+   "JobsRetained": 63
+ },
+ {
+   "Zip": 62666,
+   "value": 79966,
+   "JobsRetained": 6
+ },
+ {
+   "Zip": 62667,
+   "value": 250104.52,
+   "JobsRetained": 30
+ },
+ {
+   "Zip": 62668,
+   "value": 372675.69,
+   "JobsRetained": 54
+ },
+ {
+   "Zip": 62670,
+   "value": 1720490.39,
+   "JobsRetained": 293
+ },
+ {
+   "Zip": 62671,
+   "value": 163705.74,
+   "JobsRetained": 15
+ },
+ {
+   "Zip": 62672,
+   "value": 19605,
+   "JobsRetained": 2
+ },
+ {
+   "Zip": 62673,
+   "value": 96834.02,
+   "JobsRetained": 14
+ },
+ {
+   "Zip": 62674,
+   "value": 569128.5,
+   "JobsRetained": 83
+ },
+ {
+   "Zip": 62675,
+   "value": 2480560.16,
+   "JobsRetained": 433
+ },
+ {
+   "Zip": 62677,
+   "value": 1355168.65,
+   "JobsRetained": 276
+ },
+ {
+   "Zip": 62681,
+   "value": 1935298.33,
+   "JobsRetained": 379
+ },
+ {
+   "Zip": 62682,
+   "value": 258343.29,
+   "JobsRetained": 33
+ },
+ {
+   "Zip": 62684,
+   "value": 1590018.7,
+   "JobsRetained": 327
+ },
+ {
+   "Zip": 62685,
+   "value": 731205.02,
+   "JobsRetained": 99
+ },
+ {
+   "Zip": 62688,
+   "value": 318183.25,
+   "JobsRetained": 41
+ },
+ {
+   "Zip": 62689,
+   "value": 30196.25,
+   "JobsRetained": 8
+ },
+ {
+   "Zip": 62690,
+   "value": 1757332.01,
+   "JobsRetained": 283
+ },
+ {
+   "Zip": 62691,
+   "value": 1343546.67,
+   "JobsRetained": 195
+ },
+ {
+   "Zip": 62692,
+   "value": 838501.04,
+   "JobsRetained": 145
+ },
+ {
+   "Zip": 62693,
+   "value": 570092.05,
+   "JobsRetained": 120
+ },
+ {
+   "Zip": 62694,
+   "value": 1112222.18,
+   "JobsRetained": 213
+ },
+ {
+   "Zip": 62695,
+   "value": 94241.7,
+   "JobsRetained": 28
+ },
+ {
+   "Zip": 62701,
+   "value": 4698714.19,
+   "JobsRetained": 1004
+ },
+ {
+   "Zip": 62702,
+   "value": 10953467.82,
+   "JobsRetained": 1972
+ },
+ {
+   "Zip": 62703,
+   "value": 13458134.36,
+   "JobsRetained": 2371
+ },
+ {
+   "Zip": 62704,
+   "value": 22605615.12,
+   "JobsRetained": 4094
+ },
+ {
+   "Zip": 62705,
+   "value": 42900,
+   "JobsRetained": 4
+ },
+ {
+   "Zip": 62706,
+   "value": 45600,
+   "JobsRetained": 8
+ },
+ {
+   "Zip": 62707,
+   "value": 3062985.33,
+   "JobsRetained": 556
+ },
+ {
+   "Zip": 62708,
+   "value": 221500,
+   "JobsRetained": 37
+ },
+ {
+   "Zip": 62711,
+   "value": 11279259.4,
+   "JobsRetained": 1792
+ },
+ {
+   "Zip": 62712,
+   "value": 2451136.71,
+   "JobsRetained": 555
+ },
+ {
+   "Zip": 62791,
+   "value": 140977,
+   "JobsRetained": 24
+ },
+ {
+   "Zip": 62801,
+   "value": 7407821.05,
+   "JobsRetained": 1234
+ },
+ {
+   "Zip": 62803,
+   "value": 913601.83,
+   "JobsRetained": 133
+ },
+ {
+   "Zip": 62806,
+   "value": 1864852.32,
+   "JobsRetained": 336
+ },
+ {
+   "Zip": 62807,
+   "value": 288895.92,
+   "JobsRetained": 52
+ },
+ {
+   "Zip": 62808,
+   "value": 671390.72,
+   "JobsRetained": 94
+ },
+ {
+   "Zip": 62809,
+   "value": 66315,
+   "JobsRetained": 11
+ },
+ {
+   "Zip": 62810,
+   "value": 225634.5,
+   "JobsRetained": 85
+ },
+ {
+   "Zip": 62811,
+   "value": 44570,
+   "JobsRetained": 13
+ },
+ {
+   "Zip": 62812,
+   "value": 3622151.05,
+   "JobsRetained": 1221
+ },
+ {
+   "Zip": 62814,
+   "value": 282394,
+   "JobsRetained": 36
+ },
+ {
+   "Zip": 62815,
+   "value": 12605,
+   "JobsRetained": 1
+ },
+ {
+   "Zip": 62816,
+   "value": 438989,
+   "JobsRetained": 88
+ },
+ {
+   "Zip": 62817,
+   "value": 84900,
+   "JobsRetained": 8
+ },
+ {
+   "Zip": 62818,
+   "value": 143725,
+   "JobsRetained": 37
+ },
+ {
+   "Zip": 62819,
+   "value": 102125,
+   "JobsRetained": 25
+ },
+ {
+   "Zip": 62820,
+   "value": 18520,
+   "JobsRetained": 4
+ },
+ {
+   "Zip": 62821,
+   "value": 4495203.13,
+   "JobsRetained": 711
+ },
+ {
+   "Zip": 62822,
+   "value": 759083.99,
+   "JobsRetained": 183
+ },
+ {
+   "Zip": 62823,
+   "value": 395836.65,
+   "JobsRetained": 71
+ },
+ {
+   "Zip": 62824,
+   "value": 668912.73,
+   "JobsRetained": 81
+ },
+ {
+   "Zip": 62825,
+   "value": 10870,
+   "JobsRetained": 1
+ },
+ {
+   "Zip": 62827,
+   "value": 545093.5,
+   "JobsRetained": 66
+ },
+ {
+   "Zip": 62828,
+   "value": 923560.72,
+   "JobsRetained": 130
+ },
+ {
+   "Zip": 62829,
+   "value": 21900,
+   "JobsRetained": 4
+ },
+ {
+   "Zip": 62830,
+   "value": 180973.15,
+   "JobsRetained": 21
+ },
+ {
+   "Zip": 62831,
+   "value": 124981.94,
+   "JobsRetained": 36
+ },
+ {
+   "Zip": 62832,
+   "value": 2423731.27,
+   "JobsRetained": 413
+ },
+ {
+   "Zip": 62833,
+   "value": 42979,
+   "JobsRetained": 5
+ },
+ {
+   "Zip": 62835,
+   "value": 440149.42,
+   "JobsRetained": 66
+ },
+ {
+   "Zip": 62836,
+   "value": 68209.85,
+   "JobsRetained": 14
+ },
+ {
+   "Zip": 62837,
+   "value": 4407980.07,
+   "JobsRetained": 696
+ },
+ {
+   "Zip": 62838,
+   "value": 809523.24,
+   "JobsRetained": 127
+ },
+ {
+   "Zip": 62839,
+   "value": 2805867.42,
+   "JobsRetained": 616
+ },
+ {
+   "Zip": 62842,
+   "value": 197580,
+   "JobsRetained": 28
+ },
+ {
+   "Zip": 62843,
+   "value": 28900,
+   "JobsRetained": 7
+ },
+ {
+   "Zip": 62844,
+   "value": 619590.1,
+   "JobsRetained": 103
+ },
+ {
+   "Zip": 62846,
+   "value": 141804,
+   "JobsRetained": 18
+ },
+ {
+   "Zip": 62848,
+   "value": 85375.94,
+   "JobsRetained": 18
+ },
+ {
+   "Zip": 62849,
+   "value": 338948,
+   "JobsRetained": 52
+ },
+ {
+   "Zip": 62850,
+   "value": 73067.5,
+   "JobsRetained": 8
+ },
+ {
+   "Zip": 62851,
+   "value": 11000,
+   "JobsRetained": 4
+ },
+ {
+   "Zip": 62853,
+   "value": 112192,
+   "JobsRetained": 23
+ },
+ {
+   "Zip": 62854,
+   "value": 347250.12,
+   "JobsRetained": 51
+ },
+ {
+   "Zip": 62858,
+   "value": 1699443.36,
+   "JobsRetained": 262
+ },
+ {
+   "Zip": 62859,
+   "value": 2679025.75,
+   "JobsRetained": 522
+ },
+ {
+   "Zip": 62860,
+   "value": 17250,
+   "JobsRetained": 13
+ },
+ {
+   "Zip": 62861,
+   "value": 19200,
+   "JobsRetained": 1
+ },
+ {
+   "Zip": 62862,
+   "value": 212945,
+   "JobsRetained": 25
+ },
+ {
+   "Zip": 62863,
+   "value": 4794080.6,
+   "JobsRetained": 771
+ },
+ {
+   "Zip": 62864,
+   "value": 12564388.18,
+   "JobsRetained": 2021
+ },
+ {
+   "Zip": 62865,
+   "value": 250044.5,
+   "JobsRetained": 38
+ },
+ {
+   "Zip": 62867,
+   "value": 60237,
+   "JobsRetained": 7
+ },
+ {
+   "Zip": 62868,
+   "value": 938714.32,
+   "JobsRetained": 154
+ },
+ {
+   "Zip": 62869,
+   "value": 664044.37,
+   "JobsRetained": 109
+ },
+ {
+   "Zip": 62870,
+   "value": 252774.21,
+   "JobsRetained": 48
+ },
+ {
+   "Zip": 62871,
+   "value": 461392,
+   "JobsRetained": 76
+ },
+ {
+   "Zip": 62872,
+   "value": 151075,
+   "JobsRetained": 20
+ },
+ {
+   "Zip": 62874,
+   "value": 42982.75,
+   "JobsRetained": 8
+ },
+ {
+   "Zip": 62875,
+   "value": 195134.63,
+   "JobsRetained": 33
+ },
+ {
+   "Zip": 62876,
+   "value": 7970,
+   "JobsRetained": 6
+ },
+ {
+   "Zip": 62877,
+   "value": 295116.32,
+   "JobsRetained": 46
+ },
+ {
+   "Zip": 62878,
+   "value": 48962.28,
+   "JobsRetained": 11
+ },
+ {
+   "Zip": 62880,
+   "value": 608199.82,
+   "JobsRetained": 96
+ },
+ {
+   "Zip": 62881,
+   "value": 6973704.32,
+   "JobsRetained": 1071
+ },
+ {
+   "Zip": 62882,
+   "value": 657359.88,
+   "JobsRetained": 157
+ },
+ {
+   "Zip": 62883,
+   "value": 187076.45,
+   "JobsRetained": 42
+ },
+ {
+   "Zip": 62884,
+   "value": 898880.44,
+   "JobsRetained": 124
+ },
+ {
+   "Zip": 62885,
+   "value": 189756.94,
+   "JobsRetained": 52
+ },
+ {
+   "Zip": 62886,
+   "value": 109448.5,
+   "JobsRetained": 14
+ },
+ {
+   "Zip": 62887,
+   "value": 78260,
+   "JobsRetained": 7
+ },
+ {
+   "Zip": 62888,
+   "value": 219219.6,
+   "JobsRetained": 59
+ },
+ {
+   "Zip": 62889,
+   "value": 73830,
+   "JobsRetained": 10
+ },
+ {
+   "Zip": 62890,
+   "value": 384449,
+   "JobsRetained": 60
+ },
+ {
+   "Zip": 62891,
+   "value": 17497.5,
+   "JobsRetained": 2
+ },
+ {
+   "Zip": 62892,
+   "value": 72802,
+   "JobsRetained": 14
+ },
+ {
+   "Zip": 62893,
+   "value": 286978.52,
+   "JobsRetained": 39
+ },
+ {
+   "Zip": 62894,
+   "value": 126047.25,
+   "JobsRetained": 25
+ },
+ {
+   "Zip": 62895,
+   "value": 995926.72,
+   "JobsRetained": 178
+ },
+ {
+   "Zip": 62896,
+   "value": 3807690.21,
+   "JobsRetained": 632
+ },
+ {
+   "Zip": 62897,
+   "value": 184106,
+   "JobsRetained": 73
+ },
+ {
+   "Zip": 62898,
+   "value": 619282.99,
+   "JobsRetained": 142
+ },
+ {
+   "Zip": 62899,
+   "value": 716568.87,
+   "JobsRetained": 148
+ },
+ {
+   "Zip": 62901,
+   "value": 10045382.12,
+   "JobsRetained": 1834
+ },
+ {
+   "Zip": 62902,
+   "value": 1575504.18,
+   "JobsRetained": 282
+ },
+ {
+   "Zip": 62903,
+   "value": 867874.12,
+   "JobsRetained": 211
+ },
+ {
+   "Zip": 62905,
+   "value": 233994.46,
+   "JobsRetained": 49
+ },
+ {
+   "Zip": 62906,
+   "value": 3304509.97,
+   "JobsRetained": 616
+ },
+ {
+   "Zip": 62907,
+   "value": 551764.82,
+   "JobsRetained": 100
+ },
+ {
+   "Zip": 62908,
+   "value": 80937.81,
+   "JobsRetained": 7
+ },
+ {
+   "Zip": 62909,
+   "value": 8462.5,
+   "JobsRetained": 2
+ },
+ {
+   "Zip": 62910,
+   "value": 351997.51,
+   "JobsRetained": 43
+ },
+ {
+   "Zip": 62912,
+   "value": 157081.47,
+   "JobsRetained": 25
+ },
+ {
+   "Zip": 62914,
+   "value": 415949.37,
+   "JobsRetained": 97
+ },
+ {
+   "Zip": 62915,
+   "value": 3314,
+   "JobsRetained": 1
+ },
+ {
+   "Zip": 62916,
+   "value": 218787.22,
+   "JobsRetained": 37
+ },
+ {
+   "Zip": 62917,
+   "value": 302403.18,
+   "JobsRetained": 56
+ },
+ {
+   "Zip": 62918,
+   "value": 3674080.96,
+   "JobsRetained": 664
+ },
+ {
+   "Zip": 62919,
+   "value": 126403,
+   "JobsRetained": 13
+ },
+ {
+   "Zip": 62920,
+   "value": 794792.36,
+   "JobsRetained": 170
+ },
+ {
+   "Zip": 62921,
+   "value": 5875,
+   "JobsRetained": 3
+ },
+ {
+   "Zip": 62922,
+   "value": 228188.72,
+   "JobsRetained": 60
+ },
+ {
+   "Zip": 62923,
+   "value": 55353,
+   "JobsRetained": 3
+ },
+ {
+   "Zip": 62924,
+   "value": 255249.42,
+   "JobsRetained": 93
+ },
+ {
+   "Zip": 62926,
+   "value": 220869.2,
+   "JobsRetained": 47
+ },
+ {
+   "Zip": 62927,
+   "value": 8142,
+   "JobsRetained": 4
+ },
+ {
+   "Zip": 62928,
+   "value": 28600,
+   "JobsRetained": 2
+ },
+ {
+   "Zip": 62930,
+   "value": 1676002.62,
+   "JobsRetained": 280
+ },
+ {
+   "Zip": 62931,
+   "value": 170715,
+   "JobsRetained": 43
+ },
+ {
+   "Zip": 62932,
+   "value": 360093.31,
+   "JobsRetained": 69
+ },
+ {
+   "Zip": 62933,
+   "value": 609386.82,
+   "JobsRetained": 116
+ },
+ {
+   "Zip": 62934,
+   "value": 204232,
+   "JobsRetained": 47
+ },
+ {
+   "Zip": 62935,
+   "value": 474897,
+   "JobsRetained": 56
+ },
+ {
+   "Zip": 62938,
+   "value": 390569.47,
+   "JobsRetained": 99
+ },
+ {
+   "Zip": 62939,
+   "value": 409601.77,
+   "JobsRetained": 112
+ },
+ {
+   "Zip": 62940,
+   "value": 173177.62,
+   "JobsRetained": 145
+ },
+ {
+   "Zip": 62941,
+   "value": 50805.67,
+   "JobsRetained": 10
+ },
+ {
+   "Zip": 62942,
+   "value": 79866,
+   "JobsRetained": 14
+ },
+ {
+   "Zip": 62943,
+   "value": 83879.64,
+   "JobsRetained": 11
+ },
+ {
+   "Zip": 62946,
+   "value": 5595298.79,
+   "JobsRetained": 875
+ },
+ {
+   "Zip": 62947,
+   "value": 63178.32,
+   "JobsRetained": 12
+ },
+ {
+   "Zip": 62948,
+   "value": 4848311.5,
+   "JobsRetained": 819
+ },
+ {
+   "Zip": 62949,
+   "value": 38674.5,
+   "JobsRetained": 13
+ },
+ {
+   "Zip": 62950,
+   "value": 105393,
+   "JobsRetained": 10
+ },
+ {
+   "Zip": 62951,
+   "value": 1081568.25,
+   "JobsRetained": 196
+ },
+ {
+   "Zip": 62952,
+   "value": 1003558.41,
+   "JobsRetained": 143
+ },
+ {
+   "Zip": 62953,
+   "value": 13382.07,
+   "JobsRetained": 3
+ },
+ {
+   "Zip": 62954,
+   "value": 181303,
+   "JobsRetained": 8
+ },
+ {
+   "Zip": 62956,
+   "value": 226462.35,
+   "JobsRetained": 40
+ },
+ {
+   "Zip": 62957,
+   "value": 177397,
+   "JobsRetained": 48
+ },
+ {
+   "Zip": 62958,
+   "value": 670218.25,
+   "JobsRetained": 106
+ },
+ {
+   "Zip": 62959,
+   "value": 17505437.53,
+   "JobsRetained": 2928
+ },
+ {
+   "Zip": 62960,
+   "value": 3393162.06,
+   "JobsRetained": 601
+ },
+ {
+   "Zip": 62961,
+   "value": 4100,
+   "JobsRetained": 3
+ },
+ {
+   "Zip": 62962,
+   "value": 24100,
+   "JobsRetained": 4
+ },
+ {
+   "Zip": 62963,
+   "value": 7200,
+   "JobsRetained": 1
+ },
+ {
+   "Zip": 62964,
+   "value": 563467.72,
+   "JobsRetained": 87
+ },
+ {
+   "Zip": 62966,
+   "value": 4425017.97,
+   "JobsRetained": 756
+ },
+ {
+   "Zip": 62969,
+   "value": 86003.52,
+   "JobsRetained": 32
+ },
+ {
+   "Zip": 62970,
+   "value": 37707,
+   "JobsRetained": 6
+ },
+ {
+   "Zip": 62972,
+   "value": 128532.77,
+   "JobsRetained": 15
+ },
+ {
+   "Zip": 62974,
+   "value": 196548,
+   "JobsRetained": 19
+ },
+ {
+   "Zip": 62975,
+   "value": 16700,
+   "JobsRetained": 7
+ },
+ {
+   "Zip": 62976,
+   "value": 243273.25,
+   "JobsRetained": 36
+ },
+ {
+   "Zip": 62977,
+   "value": 364185,
+   "JobsRetained": 42
+ },
+ {
+   "Zip": 62979,
+   "value": 695831,
+   "JobsRetained": 101
+ },
+ {
+   "Zip": 62982,
+   "value": 142394,
+   "JobsRetained": 15
+ },
+ {
+   "Zip": 62983,
+   "value": 59838,
+   "JobsRetained": 12
+ },
+ {
+   "Zip": 62984,
+   "value": 777497,
+   "JobsRetained": 83
+ },
+ {
+   "Zip": 62985,
+   "value": 27987,
+   "JobsRetained": 5
+ },
+ {
+   "Zip": 62987,
+   "value": 243499.8,
+   "JobsRetained": 44
+ },
+ {
+   "Zip": 62988,
+   "value": 114199.7,
+   "JobsRetained": 18
+ },
+ {
+   "Zip": 62990,
+   "value": 71261.68,
+   "JobsRetained": 7
+ },
+ {
+   "Zip": 62992,
+   "value": 432262.17,
+   "JobsRetained": 87
+ },
+ {
+   "Zip": 62994,
+   "value": 228702.36,
+   "JobsRetained": 36
+ },
+ {
+   "Zip": 62995,
+   "value": 1761756.3,
+   "JobsRetained": 371
+ },
+ {
+   "Zip": 62996,
+   "value": 112988.24,
+   "JobsRetained": 27
+ },
+ {
+   "Zip": 62997,
+   "value": 49791.67,
+   "JobsRetained": 14
+ },
+ {
+   "Zip": 62998,
+   "value": 172106.65,
+   "JobsRetained": 22
+ },
+ {
+   "Zip": 62999,
+   "value": 309430.95,
+   "JobsRetained": 53
+ },
+ {
+   "Zip": 64619,
+   "value": 3236,
+   "JobsRetained": 2
+ },
+ {
+   "Zip": 83108,
+   "value": 10600,
+   "JobsRetained": 10
+ }
+]
